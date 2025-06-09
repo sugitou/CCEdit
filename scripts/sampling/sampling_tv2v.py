@@ -513,6 +513,19 @@ if __name__ == "__main__":
             # save log info
             with open(os.path.join(save_path, "log_info.json"), "w") as f:
                 json.dump(log_info, f, indent=4)
+            
+            # ---------- Insert this block ----------
+            # Explicitly delete large tensors and free GPU memory
+            to_delete = [
+                "keyframes", "control_hint", "c", "uc", "randn", "samples",
+                "z", "noise", "sigmas", "noised_z", "mask", "prior", "noised_z",
+                "batch", "batch_uc"
+            ]
+            for name in to_delete:
+                if name in locals():
+                    del locals()[name]
+            torch.cuda.empty_cache()
+            # --------------------------------------
 
         # back to the original model
         basemodel_idx += 1
