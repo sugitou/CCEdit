@@ -15,6 +15,8 @@ try:
 
     XFORMERS_IS_AVAILABLE = True
 except:
+    import traceback
+    traceback.print_exc()
     XFORMERS_IS_AVAILABLE = False
     print("no module 'xformers'. Processing without...")
 
