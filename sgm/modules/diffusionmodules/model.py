@@ -11,7 +11,8 @@ from packaging import version
 
 try:
     import xformers
-    import xformers.opsControlledUNetModel3DTV2V
+    # import xformers.opsControlledUNetModel3DTV2V
+    from xformers.ops import memory_efficient_attention
 
     XFORMERS_IS_AVAILABLE = True
 except:

@@ -69,7 +69,7 @@ model:
               freeze: true
           - is_trainable: False
             input_key: control_hint
-            ucg_rate: 0.01 
+            ucg_rate: 0.01
             target: sgm.modules.encoders.modules.DepthMidasEncoder
 
     first_stage_config:
