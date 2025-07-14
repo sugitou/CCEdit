@@ -718,6 +718,8 @@ def load_video_keyframes(
             keyindexs = keyindexs[:num_keyframes]
         keyfiles = [files[i] for i in keyindexs]
         frames = [load_img(os.path.join(video_path, kf), size) for kf in keyfiles]
+        # frames = [equalize_brightness_per_frame(f.squeeze(0)).unsqueeze(0) for f in frames]  # Add
+
     elif video_path.endswith(".mp4") or video_path.endswith(".gif"):
         # TODO: not tested yet.
         if video_path.endswith(".mp4"):
@@ -754,6 +756,7 @@ def load_video_keyframes(
             )
         # frames = frames[::gap]  # pick the element every gap frames
         frames = [f.unsqueeze(0) for f in frames]
+        # frames = [equalize_brightness_per_frame(f.squeeze(0)).unsqueeze(0) for f in frames]  # Add
     else:
         raise ValueError(
             "Unsupported video format. Only support dirctory, .mp4 and .gif."
@@ -811,3 +814,30 @@ def load_basemodel_lora(model, basemodel_path="", lora_path=""):
         )  # TODO: alpha
         model.load_state_dict(sd_state_dict)
     return model
+
+
+import torchvision.transforms.functional as TF
+
+def equalize_brightness_per_frame(frame):
+    """
+    Apply histogram equalization to the V (brightness) channel of an RGB image.
+    Input: frame (Tensor) shape: (3, H, W), value in [-1, 1]
+    Output: frame (Tensor) shape: (3, H, W), value in [-1, 1]
+    """
+    import cv2
+    import numpy as np
+
+    # Convert to [0, 255] uint8
+    frame_np = ((frame + 1.0) / 2.0 * 255.0).clamp(0, 255).byte().cpu().numpy()
+    frame_np = np.transpose(frame_np, (1, 2, 0))  # (H, W, C)
+
+    # Convert to HSV
+    hsv = cv2.cvtColor(frame_np, cv2.COLOR_RGB2HSV)
+    hsv[..., 2] = cv2.equalizeHist(hsv[..., 2])  # Equalize V channel
+    equalized = cv2.cvtColor(hsv, cv2.COLOR_HSV2RGB)
+
+    # Back to torch tensor [-1, 1]
+    equalized = torch.from_numpy(equalized).float() / 255.0  # (H, W, C)
+    equalized = equalized.permute(2, 0, 1)  # (C, H, W)
+    equalized = equalized * 2.0 - 1.0
+    return equalized

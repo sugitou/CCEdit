@@ -4,6 +4,7 @@ import os
 import random
 
 import torch
+import torchvision
 from einops import rearrange, repeat
 from pytorch_lightning import seed_everything
 from safetensors import safe_open
@@ -323,12 +324,25 @@ if __name__ == "__main__":
                         model.device
                     )
                     keyframes_list.append(keyframes)
+
+                    # DEBUG: Save keyframes as images
+                    save_dir = "debug_keyframes"
+                    os.makedirs(save_dir, exist_ok=True)
+                    frames_to_save = rearrange(keyframes[0], 'c t h w -> t c h w')  # (T, C, H, W)
+                    for i, frame in enumerate(frames_to_save):
+                        torchvision.utils.save_image(frame, f"{save_dir}/frame_{i}.png")
+
             except:
                 print(f"Error when loading video from  {video_paths}")
                 continue
             print("load video done ...")
             keyframes = torch.cat(keyframes_list, dim=0)
             control_hint = keyframes
+
+            # DEBUG: Check statistics of control_hint
+            print("control_hint shape:", control_hint.shape)
+            print("control_hint mean:", control_hint.mean().item())
+            print("control_hint std:", control_hint.std().item())
 
             batch = {
                 "txt": prompts,
@@ -349,6 +363,9 @@ if __name__ == "__main__":
                 batch_c=batch,
                 batch_uc=batch_uc,
             )
+
+            print(f"==========Conditioning keys: {list(c.keys())}==========")
+
 
             sampling_kwargs = {}  # usually empty
 
