@@ -1,0 +1,288 @@
+==== Experiment Start ====
+datetime: 2025-08-08 10:42:12
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_SkateBoarding_g01_c03.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/SkateBoarding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 10:44:41
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_SkateBoarding_g01_c03.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/SkateBoarding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 10:47:01
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_SkateBoarding_g01_c03.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/SkateBoarding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 10:49:19
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_SkateBoarding_g01_c03.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/SkateBoarding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 10:51:37
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_SkateBoarding_g01_c03.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/SkateBoarding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 10:53:56
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_SkateBoarding_g01_c03.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/SkateBoarding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 10:56:14
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_SkateBoarding_g01_c03.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/SkateBoarding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 10:58:33
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_SkateBoarding_g01_c03.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/SkateBoarding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 11:00:51
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_SkateBoarding_g01_c03.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/SkateBoarding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 11:03:09
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_SkateBoarding_g01_c03.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/SkateBoarding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 11:05:27
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_SkateBoarding_g01_c03.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/SkateBoarding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 11:07:45
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_SkateBoarding_g01_c03.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/SkateBoarding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 11:10:03
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_SkateBoarding_g01_c03.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/SkateBoarding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 11:12:22
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_SkateBoarding_g01_c03.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/SkateBoarding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 11:14:40
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_SkateBoarding_g01_c03.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/SkateBoarding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 11:16:59
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_SkateBoarding_g01_c03.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/SkateBoarding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 11:19:17
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_SkateBoarding_g01_c03.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/SkateBoarding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 11:21:35
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_SkateBoarding_g01_c03.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/SkateBoarding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 11:23:53
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_SkateBoarding_g01_c03.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/SkateBoarding
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 11:26:12
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_SkateBoarding_g01_c03.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/SkateBoarding
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 11:28:31
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_SkateBoarding_g01_c03.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/SkateBoarding
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 11:30:49
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_SkateBoarding_g01_c03.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/SkateBoarding
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 11:33:08
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_SkateBoarding_g01_c03.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/SkateBoarding
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 11:35:27
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_SkateBoarding_g01_c03.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/SkateBoarding
+lora: ON
+==== Experiment End ====
+

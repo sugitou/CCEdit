@@ -1,0 +1,17 @@
+{
+    "basemodel_path": "models/base/toonyou_alpha3.safetensors",
+    "lora_path": "",
+    "vae_path": "",
+    "video_paths": [
+        "/scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_ApplyEyeMakeup_g12_c05.mp4",
+        "/scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_ApplyEyeMakeup_g12_c05.mp4",
+        "/scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_ApplyEyeMakeup_g12_c05.mp4",
+        "/scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_ApplyEyeMakeup_g12_c05.mp4"
+    ],
+    "keyframes_paths": [
+        "outputs/tv2v/ApplyEyeMakeup/toonyou_alpha3/result/mp4/animation-0000.mp4",
+        "outputs/tv2v/ApplyEyeMakeup/toonyou_alpha3/result/mp4/animation-0001.mp4",
+        "outputs/tv2v/ApplyEyeMakeup/toonyou_alpha3/result/mp4/animation-0002.mp4",
+        "outputs/tv2v/ApplyEyeMakeup/toonyou_alpha3/result/mp4/animation-0003.mp4"
+    ]
+}

@@ -1,0 +1,576 @@
+==== Experiment Start ====
+datetime: 2025-08-07 14:10:51
+prompt: An athletic person holds a steady handstand on a grassy hill under a vast blue sky
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HandstandWalking_g14_c03.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/HandstandWalking
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 14:13:21
+prompt: An athletic person holds a steady handstand on a grassy hill under a vast blue sky
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HandstandWalking_g14_c03.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/HandstandWalking
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 14:15:39
+prompt: An athletic person holds a steady handstand on a grassy hill under a vast blue sky
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HandstandWalking_g14_c03.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/HandstandWalking
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 14:17:57
+prompt: An athletic person holds a steady handstand on a grassy hill under a vast blue sky
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HandstandWalking_g14_c03.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/HandstandWalking
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 14:20:15
+prompt: An athletic person holds a steady handstand on a grassy hill under a vast blue sky
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HandstandWalking_g14_c03.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/HandstandWalking
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 14:22:32
+prompt: An athletic person holds a steady handstand on a grassy hill under a vast blue sky
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HandstandWalking_g14_c03.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/HandstandWalking
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 14:24:50
+prompt: An athletic person holds a steady handstand on a grassy hill under a vast blue sky
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HandstandWalking_g14_c03.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/HandstandWalking
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 14:27:09
+prompt: An athletic person holds a steady handstand on a grassy hill under a vast blue sky
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HandstandWalking_g14_c03.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/HandstandWalking
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 14:29:27
+prompt: An athletic person holds a steady handstand on a grassy hill under a vast blue sky
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HandstandWalking_g14_c03.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/HandstandWalking
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 14:31:45
+prompt: An athletic person holds a steady handstand on a grassy hill under a vast blue sky
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HandstandWalking_g14_c03.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/HandstandWalking
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 14:34:02
+prompt: An athletic person holds a steady handstand on a grassy hill under a vast blue sky
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HandstandWalking_g14_c03.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/HandstandWalking
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 14:36:20
+prompt: An athletic person holds a steady handstand on a grassy hill under a vast blue sky
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HandstandWalking_g14_c03.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/HandstandWalking
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 14:38:38
+prompt: An athletic person holds a steady handstand on a grassy hill under a vast blue sky
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HandstandWalking_g14_c03.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/HandstandWalking
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 14:40:57
+prompt: An athletic person holds a steady handstand on a grassy hill under a vast blue sky
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HandstandWalking_g14_c03.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/HandstandWalking
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 14:43:15
+prompt: An athletic person holds a steady handstand on a grassy hill under a vast blue sky
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HandstandWalking_g14_c03.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/HandstandWalking
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 14:45:33
+prompt: An athletic person holds a steady handstand on a grassy hill under a vast blue sky
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HandstandWalking_g14_c03.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/HandstandWalking
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 14:47:50
+prompt: An athletic person holds a steady handstand on a grassy hill under a vast blue sky
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HandstandWalking_g14_c03.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/HandstandWalking
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 14:50:08
+prompt: An athletic person holds a steady handstand on a grassy hill under a vast blue sky
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HandstandWalking_g14_c03.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/HandstandWalking
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 14:52:26
+prompt: An athletic person holds a steady handstand on a grassy hill under a vast blue sky
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HandstandWalking_g14_c03.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/HandstandWalking
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 14:54:48
+prompt: An athletic person holds a steady handstand on a grassy hill under a vast blue sky
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HandstandWalking_g14_c03.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/HandstandWalking
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 14:57:06
+prompt: An athletic person holds a steady handstand on a grassy hill under a vast blue sky
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HandstandWalking_g14_c03.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/HandstandWalking
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 14:59:24
+prompt: An athletic person holds a steady handstand on a grassy hill under a vast blue sky
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HandstandWalking_g14_c03.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/HandstandWalking
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 15:01:42
+prompt: An athletic person holds a steady handstand on a grassy hill under a vast blue sky
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HandstandWalking_g14_c03.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/HandstandWalking
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 15:03:59
+prompt: An athletic person holds a steady handstand on a grassy hill under a vast blue sky
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HandstandWalking_g14_c03.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/HandstandWalking
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 15:06:17
+prompt: A strong man performs an impressive snatch, lifting a heavy barbell overhead in a gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_CleanAndJerk_g25_c01.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/CleanAndJerk
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 15:08:35
+prompt: A strong man performs an impressive snatch, lifting a heavy barbell overhead in a gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_CleanAndJerk_g25_c01.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/CleanAndJerk
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 15:10:53
+prompt: A strong man performs an impressive snatch, lifting a heavy barbell overhead in a gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_CleanAndJerk_g25_c01.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/CleanAndJerk
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 15:13:10
+prompt: A strong man performs an impressive snatch, lifting a heavy barbell overhead in a gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_CleanAndJerk_g25_c01.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/CleanAndJerk
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 15:15:28
+prompt: A strong man performs an impressive snatch, lifting a heavy barbell overhead in a gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_CleanAndJerk_g25_c01.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/CleanAndJerk
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 15:17:46
+prompt: A strong man performs an impressive snatch, lifting a heavy barbell overhead in a gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_CleanAndJerk_g25_c01.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/CleanAndJerk
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 15:20:04
+prompt: A strong man performs an impressive snatch, lifting a heavy barbell overhead in a gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_CleanAndJerk_g25_c01.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/CleanAndJerk
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 15:22:21
+prompt: A strong man performs an impressive snatch, lifting a heavy barbell overhead in a gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_CleanAndJerk_g25_c01.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/CleanAndJerk
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 15:24:39
+prompt: A strong man performs an impressive snatch, lifting a heavy barbell overhead in a gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_CleanAndJerk_g25_c01.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/CleanAndJerk
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 15:26:57
+prompt: A strong man performs an impressive snatch, lifting a heavy barbell overhead in a gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_CleanAndJerk_g25_c01.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/CleanAndJerk
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 15:29:15
+prompt: A strong man performs an impressive snatch, lifting a heavy barbell overhead in a gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_CleanAndJerk_g25_c01.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/CleanAndJerk
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 15:31:33
+prompt: A strong man performs an impressive snatch, lifting a heavy barbell overhead in a gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_CleanAndJerk_g25_c01.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/CleanAndJerk
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 15:33:50
+prompt: A strong man performs an impressive snatch, lifting a heavy barbell overhead in a gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_CleanAndJerk_g25_c01.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/CleanAndJerk
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 15:36:08
+prompt: A strong man performs an impressive snatch, lifting a heavy barbell overhead in a gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_CleanAndJerk_g25_c01.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/CleanAndJerk
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 15:38:26
+prompt: A strong man performs an impressive snatch, lifting a heavy barbell overhead in a gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_CleanAndJerk_g25_c01.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/CleanAndJerk
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 15:40:44
+prompt: A strong man performs an impressive snatch, lifting a heavy barbell overhead in a gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_CleanAndJerk_g25_c01.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/CleanAndJerk
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 15:43:02
+prompt: A strong man performs an impressive snatch, lifting a heavy barbell overhead in a gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_CleanAndJerk_g25_c01.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/CleanAndJerk
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 15:45:20
+prompt: A strong man performs an impressive snatch, lifting a heavy barbell overhead in a gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_CleanAndJerk_g25_c01.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/CleanAndJerk
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 15:47:38
+prompt: A strong man performs an impressive snatch, lifting a heavy barbell overhead in a gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_CleanAndJerk_g25_c01.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/CleanAndJerk
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 15:49:56
+prompt: A strong man performs an impressive snatch, lifting a heavy barbell overhead in a gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_CleanAndJerk_g25_c01.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/CleanAndJerk
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 15:52:14
+prompt: A strong man performs an impressive snatch, lifting a heavy barbell overhead in a gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_CleanAndJerk_g25_c01.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/CleanAndJerk
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 15:54:32
+prompt: A strong man performs an impressive snatch, lifting a heavy barbell overhead in a gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_CleanAndJerk_g25_c01.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/CleanAndJerk
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 15:56:50
+prompt: A strong man performs an impressive snatch, lifting a heavy barbell overhead in a gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_CleanAndJerk_g25_c01.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/CleanAndJerk
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 15:59:09
+prompt: A strong man performs an impressive snatch, lifting a heavy barbell overhead in a gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_CleanAndJerk_g25_c01.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/CleanAndJerk
+lora: ON
+==== Experiment End ====
+

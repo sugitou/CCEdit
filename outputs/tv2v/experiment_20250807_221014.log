@@ -1,0 +1,21 @@
+==== Experiment Start ====
+datetime: 2025-08-07 22:10:14
+prompt: A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BoxingPunchingBag_g01_c03.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/BoxingPunchingBag
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-07 22:12:46
+prompt: A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BoxingPunchingBag_g01_c03.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/BoxingPunchingBag

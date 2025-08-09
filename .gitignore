@@ -2,7 +2,9 @@ src
 *.pyc
 *.npz
 *.ckpt
-outputs
+outputs/tv2v/TEST/
+outputs/tv2v-sd/
+outputs/tvi2v/
 sgm.egg-info/
 latents_forward
 PNP-results

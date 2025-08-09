@@ -1,0 +1,1728 @@
+==== Experiment Start ====
+datetime: 2025-08-08 02:02:25
+prompt: A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BoxingPunchingBag_g01_c03.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/BoxingPunchingBag
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 02:04:41
+prompt: A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BoxingPunchingBag_g01_c03.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/BoxingPunchingBag
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 02:06:57
+prompt: A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BoxingPunchingBag_g01_c03.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/BoxingPunchingBag
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 02:09:14
+prompt: A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BoxingPunchingBag_g01_c03.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/BoxingPunchingBag
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 02:11:31
+prompt: A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BoxingPunchingBag_g01_c03.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/BoxingPunchingBag
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 02:13:48
+prompt: A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BoxingPunchingBag_g01_c03.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/BoxingPunchingBag
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 02:16:06
+prompt: A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BoxingPunchingBag_g01_c03.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/BoxingPunchingBag
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 02:18:24
+prompt: A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BoxingPunchingBag_g01_c03.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/BoxingPunchingBag
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 02:20:41
+prompt: A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BoxingPunchingBag_g01_c03.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/BoxingPunchingBag
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 02:22:58
+prompt: A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BoxingPunchingBag_g01_c03.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/BoxingPunchingBag
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 02:25:15
+prompt: A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BoxingPunchingBag_g01_c03.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/BoxingPunchingBag
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 02:27:32
+prompt: A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BoxingPunchingBag_g01_c03.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/BoxingPunchingBag
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 02:29:49
+prompt: A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BoxingPunchingBag_g01_c03.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/BoxingPunchingBag
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 02:32:07
+prompt: A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BoxingPunchingBag_g01_c03.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/BoxingPunchingBag
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 02:34:24
+prompt: A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BoxingPunchingBag_g01_c03.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/BoxingPunchingBag
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 02:36:41
+prompt: A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BoxingPunchingBag_g01_c03.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/BoxingPunchingBag
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 02:38:58
+prompt: A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BoxingPunchingBag_g01_c03.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/BoxingPunchingBag
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 02:41:16
+prompt: A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BoxingPunchingBag_g01_c03.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/BoxingPunchingBag
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 02:43:33
+prompt: A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BoxingPunchingBag_g01_c03.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/BoxingPunchingBag
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 02:45:54
+prompt: A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BoxingPunchingBag_g01_c03.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/BoxingPunchingBag
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 02:48:11
+prompt: A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BoxingPunchingBag_g01_c03.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/BoxingPunchingBag
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 02:50:29
+prompt: A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BoxingPunchingBag_g01_c03.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/BoxingPunchingBag
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 02:52:46
+prompt: A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BoxingPunchingBag_g01_c03.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/BoxingPunchingBag
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 02:55:04
+prompt: A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BoxingPunchingBag_g01_c03.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/BoxingPunchingBag
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 02:57:21
+prompt: A young girl with long blonde hair is brushing her teeth in a bathroom
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BrushingTeeth_g01_c04.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/BrushingTeeth
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 02:59:38
+prompt: A young girl with long blonde hair is brushing her teeth in a bathroom
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BrushingTeeth_g01_c04.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/BrushingTeeth
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 03:01:55
+prompt: A young girl with long blonde hair is brushing her teeth in a bathroom
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BrushingTeeth_g01_c04.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/BrushingTeeth
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 03:04:12
+prompt: A young girl with long blonde hair is brushing her teeth in a bathroom
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BrushingTeeth_g01_c04.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/BrushingTeeth
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 03:06:29
+prompt: A young girl with long blonde hair is brushing her teeth in a bathroom
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BrushingTeeth_g01_c04.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/BrushingTeeth
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 03:08:47
+prompt: A young girl with long blonde hair is brushing her teeth in a bathroom
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BrushingTeeth_g01_c04.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/BrushingTeeth
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 03:11:04
+prompt: A young girl with long blonde hair is brushing her teeth in a bathroom
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BrushingTeeth_g01_c04.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/BrushingTeeth
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 03:13:21
+prompt: A young girl with long blonde hair is brushing her teeth in a bathroom
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BrushingTeeth_g01_c04.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/BrushingTeeth
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 03:15:38
+prompt: A young girl with long blonde hair is brushing her teeth in a bathroom
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BrushingTeeth_g01_c04.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/BrushingTeeth
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 03:17:55
+prompt: A young girl with long blonde hair is brushing her teeth in a bathroom
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BrushingTeeth_g01_c04.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/BrushingTeeth
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 03:20:12
+prompt: A young girl with long blonde hair is brushing her teeth in a bathroom
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BrushingTeeth_g01_c04.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/BrushingTeeth
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 03:22:29
+prompt: A young girl with long blonde hair is brushing her teeth in a bathroom
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BrushingTeeth_g01_c04.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/BrushingTeeth
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 03:24:46
+prompt: A young girl with long blonde hair is brushing her teeth in a bathroom
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BrushingTeeth_g01_c04.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/BrushingTeeth
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 03:27:03
+prompt: A young girl with long blonde hair is brushing her teeth in a bathroom
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BrushingTeeth_g01_c04.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/BrushingTeeth
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 03:29:21
+prompt: A young girl with long blonde hair is brushing her teeth in a bathroom
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BrushingTeeth_g01_c04.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/BrushingTeeth
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 03:31:38
+prompt: A young girl with long blonde hair is brushing her teeth in a bathroom
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BrushingTeeth_g01_c04.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/BrushingTeeth
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 03:33:55
+prompt: A young girl with long blonde hair is brushing her teeth in a bathroom
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BrushingTeeth_g01_c04.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/BrushingTeeth
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 03:36:13
+prompt: A young girl with long blonde hair is brushing her teeth in a bathroom
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BrushingTeeth_g01_c04.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/BrushingTeeth
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 03:38:30
+prompt: A young girl with long blonde hair is brushing her teeth in a bathroom
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BrushingTeeth_g01_c04.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/BrushingTeeth
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 03:40:47
+prompt: A young girl with long blonde hair is brushing her teeth in a bathroom
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BrushingTeeth_g01_c04.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/BrushingTeeth
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 03:43:05
+prompt: A young girl with long blonde hair is brushing her teeth in a bathroom
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BrushingTeeth_g01_c04.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/BrushingTeeth
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 03:45:22
+prompt: A young girl with long blonde hair is brushing her teeth in a bathroom
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BrushingTeeth_g01_c04.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/BrushingTeeth
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 03:47:40
+prompt: A young girl with long blonde hair is brushing her teeth in a bathroom
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BrushingTeeth_g01_c04.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/BrushingTeeth
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 03:49:57
+prompt: A young girl with long blonde hair is brushing her teeth in a bathroom
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BrushingTeeth_g01_c04.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/BrushingTeeth
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 03:52:15
+prompt: Two focused fencers in white uniforms duel on a strip inside a large sports hall
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/Fencing
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 03:54:32
+prompt: Two focused fencers in white uniforms duel on a strip inside a large sports hall
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/Fencing
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 03:56:49
+prompt: Two focused fencers in white uniforms duel on a strip inside a large sports hall
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/Fencing
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 03:59:06
+prompt: Two focused fencers in white uniforms duel on a strip inside a large sports hall
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/Fencing
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 04:01:24
+prompt: Two focused fencers in white uniforms duel on a strip inside a large sports hall
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/Fencing
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 04:03:41
+prompt: Two focused fencers in white uniforms duel on a strip inside a large sports hall
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/Fencing
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 04:05:58
+prompt: Two focused fencers in white uniforms duel on a strip inside a large sports hall
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/Fencing
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 04:08:15
+prompt: Two focused fencers in white uniforms duel on a strip inside a large sports hall
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/Fencing
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 04:10:32
+prompt: Two focused fencers in white uniforms duel on a strip inside a large sports hall
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/Fencing
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 04:12:49
+prompt: Two focused fencers in white uniforms duel on a strip inside a large sports hall
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/Fencing
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 04:15:06
+prompt: Two focused fencers in white uniforms duel on a strip inside a large sports hall
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/Fencing
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 04:17:23
+prompt: Two focused fencers in white uniforms duel on a strip inside a large sports hall
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/Fencing
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 04:19:40
+prompt: Two focused fencers in white uniforms duel on a strip inside a large sports hall
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/Fencing
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 04:21:58
+prompt: Two focused fencers in white uniforms duel on a strip inside a large sports hall
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/Fencing
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 04:24:15
+prompt: Two focused fencers in white uniforms duel on a strip inside a large sports hall
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/Fencing
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 04:26:32
+prompt: Two focused fencers in white uniforms duel on a strip inside a large sports hall
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/Fencing
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 04:28:50
+prompt: Two focused fencers in white uniforms duel on a strip inside a large sports hall
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/Fencing
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 04:31:07
+prompt: Two focused fencers in white uniforms duel on a strip inside a large sports hall
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/Fencing
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 04:33:24
+prompt: Two focused fencers in white uniforms duel on a strip inside a large sports hall
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/Fencing
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 04:35:42
+prompt: Two focused fencers in white uniforms duel on a strip inside a large sports hall
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/Fencing
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 04:38:00
+prompt: Two focused fencers in white uniforms duel on a strip inside a large sports hall
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/Fencing
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 04:40:17
+prompt: Two focused fencers in white uniforms duel on a strip inside a large sports hall
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/Fencing
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 04:42:35
+prompt: Two focused fencers in white uniforms duel on a strip inside a large sports hall
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/Fencing
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 04:44:52
+prompt: Two focused fencers in white uniforms duel on a strip inside a large sports hall
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/Fencing
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 04:47:10
+prompt: A man is practising his golf swing on the green front lawn of a brick house
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_GolfSwing_g02_c02_25fps.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/GolfSwing
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 04:49:27
+prompt: A man is practising his golf swing on the green front lawn of a brick house
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_GolfSwing_g02_c02_25fps.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/GolfSwing
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 04:51:44
+prompt: A man is practising his golf swing on the green front lawn of a brick house
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_GolfSwing_g02_c02_25fps.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/GolfSwing
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 04:54:01
+prompt: A man is practising his golf swing on the green front lawn of a brick house
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_GolfSwing_g02_c02_25fps.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/GolfSwing
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 04:56:18
+prompt: A man is practising his golf swing on the green front lawn of a brick house
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_GolfSwing_g02_c02_25fps.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/GolfSwing
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 04:58:35
+prompt: A man is practising his golf swing on the green front lawn of a brick house
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_GolfSwing_g02_c02_25fps.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/GolfSwing
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 05:00:53
+prompt: A man is practising his golf swing on the green front lawn of a brick house
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_GolfSwing_g02_c02_25fps.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/GolfSwing
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 05:03:10
+prompt: A man is practising his golf swing on the green front lawn of a brick house
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_GolfSwing_g02_c02_25fps.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/GolfSwing
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 05:05:27
+prompt: A man is practising his golf swing on the green front lawn of a brick house
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_GolfSwing_g02_c02_25fps.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/GolfSwing
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 05:07:44
+prompt: A man is practising his golf swing on the green front lawn of a brick house
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_GolfSwing_g02_c02_25fps.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/GolfSwing
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 05:10:01
+prompt: A man is practising his golf swing on the green front lawn of a brick house
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_GolfSwing_g02_c02_25fps.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/GolfSwing
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 05:12:18
+prompt: A man is practising his golf swing on the green front lawn of a brick house
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_GolfSwing_g02_c02_25fps.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/GolfSwing
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 05:14:35
+prompt: A man is practising his golf swing on the green front lawn of a brick house
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_GolfSwing_g02_c02_25fps.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/GolfSwing
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 05:16:52
+prompt: A man is practising his golf swing on the green front lawn of a brick house
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_GolfSwing_g02_c02_25fps.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/GolfSwing
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 05:19:09
+prompt: A man is practising his golf swing on the green front lawn of a brick house
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_GolfSwing_g02_c02_25fps.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/GolfSwing
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 05:21:27
+prompt: A man is practising his golf swing on the green front lawn of a brick house
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_GolfSwing_g02_c02_25fps.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/GolfSwing
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 05:23:44
+prompt: A man is practising his golf swing on the green front lawn of a brick house
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_GolfSwing_g02_c02_25fps.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/GolfSwing
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 05:26:01
+prompt: A man is practising his golf swing on the green front lawn of a brick house
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_GolfSwing_g02_c02_25fps.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/GolfSwing
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 05:28:18
+prompt: A man is practising his golf swing on the green front lawn of a brick house
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_GolfSwing_g02_c02_25fps.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/GolfSwing
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 05:30:36
+prompt: A man is practising his golf swing on the green front lawn of a brick house
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_GolfSwing_g02_c02_25fps.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/GolfSwing
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 05:32:53
+prompt: A man is practising his golf swing on the green front lawn of a brick house
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_GolfSwing_g02_c02_25fps.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/GolfSwing
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 05:35:11
+prompt: A man is practising his golf swing on the green front lawn of a brick house
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_GolfSwing_g02_c02_25fps.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/GolfSwing
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 05:37:28
+prompt: A man is practising his golf swing on the green front lawn of a brick house
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_GolfSwing_g02_c02_25fps.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/GolfSwing
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 05:39:45
+prompt: A man is practising his golf swing on the green front lawn of a brick house
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_GolfSwing_g02_c02_25fps.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/GolfSwing
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 05:42:03
+prompt: A rider on horseback navigates an obstacle course in a sandy arena with trees and hills
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HorseRiding_g01_c06_25fps.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/HorseRiding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 05:44:20
+prompt: A rider on horseback navigates an obstacle course in a sandy arena with trees and hills
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HorseRiding_g01_c06_25fps.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/HorseRiding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 05:46:37
+prompt: A rider on horseback navigates an obstacle course in a sandy arena with trees and hills
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HorseRiding_g01_c06_25fps.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/HorseRiding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 05:48:54
+prompt: A rider on horseback navigates an obstacle course in a sandy arena with trees and hills
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HorseRiding_g01_c06_25fps.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/HorseRiding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 05:51:11
+prompt: A rider on horseback navigates an obstacle course in a sandy arena with trees and hills
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HorseRiding_g01_c06_25fps.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/HorseRiding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 05:53:28
+prompt: A rider on horseback navigates an obstacle course in a sandy arena with trees and hills
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HorseRiding_g01_c06_25fps.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/HorseRiding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 05:55:45
+prompt: A rider on horseback navigates an obstacle course in a sandy arena with trees and hills
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HorseRiding_g01_c06_25fps.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/HorseRiding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 05:58:02
+prompt: A rider on horseback navigates an obstacle course in a sandy arena with trees and hills
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HorseRiding_g01_c06_25fps.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/HorseRiding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 06:00:20
+prompt: A rider on horseback navigates an obstacle course in a sandy arena with trees and hills
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HorseRiding_g01_c06_25fps.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/HorseRiding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 06:02:37
+prompt: A rider on horseback navigates an obstacle course in a sandy arena with trees and hills
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HorseRiding_g01_c06_25fps.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/HorseRiding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 06:04:53
+prompt: A rider on horseback navigates an obstacle course in a sandy arena with trees and hills
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HorseRiding_g01_c06_25fps.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/HorseRiding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 06:07:10
+prompt: A rider on horseback navigates an obstacle course in a sandy arena with trees and hills
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HorseRiding_g01_c06_25fps.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/HorseRiding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 06:09:27
+prompt: A rider on horseback navigates an obstacle course in a sandy arena with trees and hills
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HorseRiding_g01_c06_25fps.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/HorseRiding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 06:11:44
+prompt: A rider on horseback navigates an obstacle course in a sandy arena with trees and hills
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HorseRiding_g01_c06_25fps.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/HorseRiding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 06:14:01
+prompt: A rider on horseback navigates an obstacle course in a sandy arena with trees and hills
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HorseRiding_g01_c06_25fps.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/HorseRiding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 06:16:19
+prompt: A rider on horseback navigates an obstacle course in a sandy arena with trees and hills
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HorseRiding_g01_c06_25fps.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/HorseRiding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 06:18:36
+prompt: A rider on horseback navigates an obstacle course in a sandy arena with trees and hills
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HorseRiding_g01_c06_25fps.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/HorseRiding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 06:20:53
+prompt: A rider on horseback navigates an obstacle course in a sandy arena with trees and hills
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HorseRiding_g01_c06_25fps.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/HorseRiding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 06:23:10
+prompt: A rider on horseback navigates an obstacle course in a sandy arena with trees and hills
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HorseRiding_g01_c06_25fps.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/HorseRiding
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 06:25:28
+prompt: A rider on horseback navigates an obstacle course in a sandy arena with trees and hills
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HorseRiding_g01_c06_25fps.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/HorseRiding
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 06:27:45
+prompt: A rider on horseback navigates an obstacle course in a sandy arena with trees and hills
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HorseRiding_g01_c06_25fps.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/HorseRiding
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 06:30:02
+prompt: A rider on horseback navigates an obstacle course in a sandy arena with trees and hills
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HorseRiding_g01_c06_25fps.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/HorseRiding
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 06:32:20
+prompt: A rider on horseback navigates an obstacle course in a sandy arena with trees and hills
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HorseRiding_g01_c06_25fps.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/HorseRiding
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 06:34:37
+prompt: A rider on horseback navigates an obstacle course in a sandy arena with trees and hills
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HorseRiding_g01_c06_25fps.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/HorseRiding
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 06:36:54
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/p_SkateBoarding.md
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/SkateBoarding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 06:37:16
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/p_SkateBoarding.md
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/SkateBoarding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 06:37:37
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/p_SkateBoarding.md
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/SkateBoarding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 06:37:59
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/p_SkateBoarding.md
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/SkateBoarding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 06:38:21
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/p_SkateBoarding.md
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/SkateBoarding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 06:38:42
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/p_SkateBoarding.md
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/SkateBoarding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 06:39:04
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/p_SkateBoarding.md
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/SkateBoarding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 06:39:26
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/p_SkateBoarding.md
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/SkateBoarding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 06:39:47
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/p_SkateBoarding.md
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/SkateBoarding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 06:40:09
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/p_SkateBoarding.md
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/SkateBoarding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 06:40:31
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/p_SkateBoarding.md
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/SkateBoarding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 06:40:52
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/p_SkateBoarding.md
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/SkateBoarding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 06:41:14
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/p_SkateBoarding.md
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/SkateBoarding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 06:41:35
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/p_SkateBoarding.md
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/SkateBoarding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 06:41:57
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/p_SkateBoarding.md
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/SkateBoarding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 06:42:18
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/p_SkateBoarding.md
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/SkateBoarding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 06:42:40
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/p_SkateBoarding.md
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/SkateBoarding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 06:43:02
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/p_SkateBoarding.md
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/SkateBoarding
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 06:43:23
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/p_SkateBoarding.md
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/SkateBoarding
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 06:43:45
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/p_SkateBoarding.md
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/SkateBoarding
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 06:44:07
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/p_SkateBoarding.md
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/SkateBoarding
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 06:44:29
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/p_SkateBoarding.md
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/SkateBoarding
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 06:44:51
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/p_SkateBoarding.md
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/SkateBoarding
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-08 06:45:14
+prompt: A skater with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/p_SkateBoarding.md
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/SkateBoarding
+lora: ON
+==== Experiment End ====
+

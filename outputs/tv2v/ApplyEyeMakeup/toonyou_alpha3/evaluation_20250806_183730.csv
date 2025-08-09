@@ -1,0 +1,6 @@
+Timestamp,Filename,Prompt,CLIP Score,PickScore,Temporal Consistency,Embedding Distance,FPS (Video),FPS (Eval),Frames,Resolution,Duration
+,,,,,,,,,,,
+2025-08-06 18:36:23,animation-0000.mp4,"A focused woman carefully applies eyeliner with a thin brush in her bathroom, anime style",0.2121,16.0159,0.98,0.7860000133514404,8.00,1,24,256x192,3.00 sec
+2025-08-06 18:36:39,animation-0001_prior0.1.mp4,"A focused woman carefully applies eyeliner with a thin brush in her bathroom, anime style",0.235,17.471,0.9423,0.7591000199317932,8.00,1,24,256x192,3.00 sec
+2025-08-06 18:36:59,Xanimation-0003_prior0.1_cfg9.mp4,"A focused woman carefully applies eyeliner with a thin brush in her bathroom, anime style",0.2559,17.7514,0.9504,0.7386000156402588,8.00,1,24,256x192,3.00 sec
+2025-08-06 18:37:15,animation-0002_prior0.1_cfg12.mp4,"A focused woman carefully applies eyeliner with a thin brush in her bathroom, anime style",0.2284,17.7941,0.9446,0.765999972820282,8.00,1,24,256x192,3.00 sec

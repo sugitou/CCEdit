@@ -1,0 +1,21 @@
+{
+    "basemodel_path": "models/base/Counterfeit-V3.0.safetensors",
+    "lora_path": "models/lora/PixelArtRedmond15V-PixelArt-PIXARFK.safetensors",
+    "vae_path": "",
+    "video_paths": [
+        "/scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BrushingTeeth_g01_c04.mp4",
+        "/scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BrushingTeeth_g01_c04.mp4",
+        "/scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BrushingTeeth_g01_c04.mp4",
+        "/scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BrushingTeeth_g01_c04.mp4",
+        "/scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BrushingTeeth_g01_c04.mp4",
+        "/scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BrushingTeeth_g01_c04.mp4"
+    ],
+    "keyframes_paths": [
+        "outputs/tv2v/BrushingTeeth/Counterfeit-V3/result/mp4/animation-0000.mp4",
+        "outputs/tv2v/BrushingTeeth/Counterfeit-V3/result/mp4/animation-0001.mp4",
+        "outputs/tv2v/BrushingTeeth/Counterfeit-V3/result/mp4/animation-0002.mp4",
+        "outputs/tv2v/BrushingTeeth/Counterfeit-V3/result/mp4/animation-0003.mp4",
+        "outputs/tv2v/BrushingTeeth/Counterfeit-V3/result/mp4/animation-0004.mp4",
+        "outputs/tv2v/BrushingTeeth/Counterfeit-V3/result/mp4/animation-0005.mp4"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "basemodel_path": "models/base/toonyou_alpha3.safetensors",
+    "lora_path": "",
+    "vae_path": "",
+    "video_paths": [
+        "/scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_GolfSwing_g02_c02_25fps.mp4",
+        "/scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_GolfSwing_g02_c02_25fps.mp4",
+        "/scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_GolfSwing_g02_c02_25fps.mp4",
+        "/scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_GolfSwing_g02_c02_25fps.mp4",
+        "/scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_GolfSwing_g02_c02_25fps.mp4",
+        "/scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_GolfSwing_g02_c02_25fps.mp4"
+    ],
+    "keyframes_paths": [
+        "outputs/tv2v/GolfSwing/toonyou_alpha3/result/mp4/animation-0000.mp4",
+        "outputs/tv2v/GolfSwing/toonyou_alpha3/result/mp4/animation-0001.mp4",
+        "outputs/tv2v/GolfSwing/toonyou_alpha3/result/mp4/animation-0002.mp4",
+        "outputs/tv2v/GolfSwing/toonyou_alpha3/result/mp4/animation-0003.mp4",
+        "outputs/tv2v/GolfSwing/toonyou_alpha3/result/mp4/animation-0004.mp4",
+        "outputs/tv2v/GolfSwing/toonyou_alpha3/result/mp4/animation-0005.mp4"
+    ]
+}
