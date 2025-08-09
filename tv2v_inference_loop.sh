@@ -4,16 +4,28 @@ LOG_FILE="outputs/tv2v/experiment_$(date '+%Y%m%d_%H%M%S').log"
 
 # 1. The information for each video
 prompts=(
-    "An athletic person holds a steady handstand on a grassy hill under a vast blue sky"
-    "A strong man performs an impressive snatch, lifting a heavy barbell overhead in a gym"
+    #"A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym"
+    #"A young girl with long blonde hair is brushing her teeth in a bathroom"
+    #"Two focused fencers in white uniforms duel on a strip inside a large sports hall"
+    #"A man is practising his golf swing on the green front lawn of a brick house"
+    #"A rider on horseback navigates an obstacle course in a sandy arena with trees and hills"
+    "A skater with a red backpack is carving on a paved road next to a snowy mountain"
 )
 video_paths=(
-    "/scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HandstandWalking_g14_c03.mp4"
-    "/scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_CleanAndJerk_g25_c01.mp4"
+    #"/scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BoxingPunchingBag_g01_c03.mp4"
+    #"/scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BrushingTeeth_g01_c04.mp4"
+    #"/scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4"
+    #"/scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_GolfSwing_g02_c02_25fps.mp4"
+    #"/scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HorseRiding_g01_c06_25fps.mp4"
+    "/scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_SkateBoarding_g01_c03.mp4"
 )
 save_paths=(
-    "outputs/tv2v/HandstandWalking"
-    "outputs/tv2v/CleanAndJerk"
+    #"outputs/tv2v/BoxingPunchingBag"
+    #"outputs/tv2v/BrushingTeeth"
+    #"outputs/tv2v/Fencing"
+    #"outputs/tv2v/GolfSwing"
+    #"outputs/tv2v/HorseRiding"
+    "outputs/tv2v/SkateBoarding"
 )
 
 # 2. add_prompt/basemodel pairs
