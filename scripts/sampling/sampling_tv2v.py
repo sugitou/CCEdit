@@ -326,11 +326,11 @@ if __name__ == "__main__":
                     keyframes_list.append(keyframes)
 
                     # DEBUG: Save keyframes as images
-                    save_dir = "debug_keyframes"
-                    os.makedirs(save_dir, exist_ok=True)
-                    frames_to_save = rearrange(keyframes[0], 'c t h w -> t c h w')  # (T, C, H, W)
-                    for i, frame in enumerate(frames_to_save):
-                        torchvision.utils.save_image(frame, f"{save_dir}/frame_{i}.png")
+                    # save_dir = "debug_keyframes"
+                    # os.makedirs(save_dir, exist_ok=True)
+                    # frames_to_save = rearrange(keyframes[0], 'c t h w -> t c h w')  # (T, C, H, W)
+                    # for i, frame in enumerate(frames_to_save):
+                    #     torchvision.utils.save_image(frame, f"{save_dir}/frame_{i}.png")
 
             except:
                 print(f"Error when loading video from  {video_paths}")

@@ -8,6 +8,7 @@ outputs/tvi2v/
 sgm.egg-info/
 latents_forward
 PNP-results
+debug_keyframes/
 
 cceditvenv/
 models/

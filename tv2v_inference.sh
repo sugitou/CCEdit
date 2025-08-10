@@ -13,7 +13,7 @@ python scripts/sampling/sampling_tv2v.py \
     --prompt 'Two focused fencers in white uniforms duel on a strip inside a large sports hall' \
     --video_path /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4 \
     --add_prompt 'anime style' \
-    --save_path outputs/tv2v/Fencing \
+    --save_path outputs/tv2v/test \
     --disable_check_repeat \
     --prior_coefficient_x 0.3 \
     --basemodel_path models/base/revAnimated_v2Rebirth.safetensors \
