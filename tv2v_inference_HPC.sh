@@ -12,7 +12,7 @@ python scripts/sampling/sampling_tv2v.py \
     --num_keyframes 120 --batch_size 1 --num_samples 1 \
     --sample_steps 100 --sampler_name DPMPP2SAncestralSampler  --cfg_scale 12 \
     --prompt 'Two focused fencers in white uniforms duel on a strip inside a large sports hall' \
-    --video_path /parallel_scratch/rs02358/Reference_Videos/v_Fencing_g01_c05.mp4 \
+    --video_path /parallel_scratch/rs02358/Reference_Videos/v_RockClimbingIndoor_g13_c03.mp4 \
     --add_prompt 'anime style' \
     --save_path outputs/tv2v/Fencing-Longvideo \
     --disable_check_repeat \

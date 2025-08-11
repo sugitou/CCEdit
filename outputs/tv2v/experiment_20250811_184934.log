@@ -1,0 +1,288 @@
+==== Experiment Start ====
+datetime: 2025-08-11 18:49:34
+prompt: A climber ascends a challenging indoor climbing wall with a follow cinematic shot
+video_path: /parallel_scratch/rs02358/Reference_Videos/v_RockClimbingIndoor_g13_c03.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/RockClimbingIndoor
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-11 18:52:21
+prompt: A climber ascends a challenging indoor climbing wall with a follow cinematic shot
+video_path: /parallel_scratch/rs02358/Reference_Videos/v_RockClimbingIndoor_g13_c03.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/RockClimbingIndoor
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-11 18:55:10
+prompt: A climber ascends a challenging indoor climbing wall with a follow cinematic shot
+video_path: /parallel_scratch/rs02358/Reference_Videos/v_RockClimbingIndoor_g13_c03.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/RockClimbingIndoor
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-11 18:58:00
+prompt: A climber ascends a challenging indoor climbing wall with a follow cinematic shot
+video_path: /parallel_scratch/rs02358/Reference_Videos/v_RockClimbingIndoor_g13_c03.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/RockClimbingIndoor
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-11 19:00:44
+prompt: A climber ascends a challenging indoor climbing wall with a follow cinematic shot
+video_path: /parallel_scratch/rs02358/Reference_Videos/v_RockClimbingIndoor_g13_c03.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/RockClimbingIndoor
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-11 19:03:38
+prompt: A climber ascends a challenging indoor climbing wall with a follow cinematic shot
+video_path: /parallel_scratch/rs02358/Reference_Videos/v_RockClimbingIndoor_g13_c03.mp4
+add_prompt: anime style
+basemodel_path: revAnimated_v2Rebirth.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/RockClimbingIndoor
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-11 19:06:19
+prompt: A climber ascends a challenging indoor climbing wall with a follow cinematic shot
+video_path: /parallel_scratch/rs02358/Reference_Videos/v_RockClimbingIndoor_g13_c03.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/RockClimbingIndoor
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-11 19:08:45
+prompt: A climber ascends a challenging indoor climbing wall with a follow cinematic shot
+video_path: /parallel_scratch/rs02358/Reference_Videos/v_RockClimbingIndoor_g13_c03.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/RockClimbingIndoor
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-11 19:11:12
+prompt: A climber ascends a challenging indoor climbing wall with a follow cinematic shot
+video_path: /parallel_scratch/rs02358/Reference_Videos/v_RockClimbingIndoor_g13_c03.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/RockClimbingIndoor
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-11 19:13:38
+prompt: A climber ascends a challenging indoor climbing wall with a follow cinematic shot
+video_path: /parallel_scratch/rs02358/Reference_Videos/v_RockClimbingIndoor_g13_c03.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/RockClimbingIndoor
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-11 19:16:06
+prompt: A climber ascends a challenging indoor climbing wall with a follow cinematic shot
+video_path: /parallel_scratch/rs02358/Reference_Videos/v_RockClimbingIndoor_g13_c03.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/RockClimbingIndoor
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-11 19:18:34
+prompt: A climber ascends a challenging indoor climbing wall with a follow cinematic shot
+video_path: /parallel_scratch/rs02358/Reference_Videos/v_RockClimbingIndoor_g13_c03.mp4
+add_prompt: anime style
+basemodel_path: toonyou_alpha3.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/RockClimbingIndoor
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-11 19:21:01
+prompt: A climber ascends a challenging indoor climbing wall with a follow cinematic shot
+video_path: /parallel_scratch/rs02358/Reference_Videos/v_RockClimbingIndoor_g13_c03.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/RockClimbingIndoor
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-11 19:23:43
+prompt: A climber ascends a challenging indoor climbing wall with a follow cinematic shot
+video_path: /parallel_scratch/rs02358/Reference_Videos/v_RockClimbingIndoor_g13_c03.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/RockClimbingIndoor
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-11 19:26:20
+prompt: A climber ascends a challenging indoor climbing wall with a follow cinematic shot
+video_path: /parallel_scratch/rs02358/Reference_Videos/v_RockClimbingIndoor_g13_c03.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/RockClimbingIndoor
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-11 19:28:57
+prompt: A climber ascends a challenging indoor climbing wall with a follow cinematic shot
+video_path: /parallel_scratch/rs02358/Reference_Videos/v_RockClimbingIndoor_g13_c03.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/RockClimbingIndoor
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-11 19:31:37
+prompt: A climber ascends a challenging indoor climbing wall with a follow cinematic shot
+video_path: /parallel_scratch/rs02358/Reference_Videos/v_RockClimbingIndoor_g13_c03.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/RockClimbingIndoor
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-11 19:34:15
+prompt: A climber ascends a challenging indoor climbing wall with a follow cinematic shot
+video_path: /parallel_scratch/rs02358/Reference_Videos/v_RockClimbingIndoor_g13_c03.mp4
+add_prompt: mecha style
+basemodel_path: hellomecha_V12fvae.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/RockClimbingIndoor
+lora: OFF
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-11 19:36:55
+prompt: A climber ascends a challenging indoor climbing wall with a follow cinematic shot
+video_path: /parallel_scratch/rs02358/Reference_Videos/v_RockClimbingIndoor_g13_c03.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/RockClimbingIndoor
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-11 19:41:07
+prompt: A climber ascends a challenging indoor climbing wall with a follow cinematic shot
+video_path: /parallel_scratch/rs02358/Reference_Videos/v_RockClimbingIndoor_g13_c03.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/RockClimbingIndoor
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-11 19:45:14
+prompt: A climber ascends a challenging indoor climbing wall with a follow cinematic shot
+video_path: /parallel_scratch/rs02358/Reference_Videos/v_RockClimbingIndoor_g13_c03.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/RockClimbingIndoor
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-11 19:49:33
+prompt: A climber ascends a challenging indoor climbing wall with a follow cinematic shot
+video_path: /parallel_scratch/rs02358/Reference_Videos/v_RockClimbingIndoor_g13_c03.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/RockClimbingIndoor
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-11 19:53:35
+prompt: A climber ascends a challenging indoor climbing wall with a follow cinematic shot
+video_path: /parallel_scratch/rs02358/Reference_Videos/v_RockClimbingIndoor_g13_c03.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v/RockClimbingIndoor
+lora: ON
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-11 19:57:40
+prompt: A climber ascends a challenging indoor climbing wall with a follow cinematic shot
+video_path: /parallel_scratch/rs02358/Reference_Videos/v_RockClimbingIndoor_g13_c03.mp4
+add_prompt: pixel art style
+basemodel_path: Counterfeit-V3.0.safetensors
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v/RockClimbingIndoor
+lora: ON
+==== Experiment End ====
+

@@ -1,5 +1,9 @@
 #!/bin/bash
 
+export ACCELERATE_USE_DEEPSPEED=0
+export TRITON_CACHE_DIR=/parallel_scratch/rs02358/.triton/autotune
+export PYTHONPATH="/parallel_scratch/rs02358/CCEdit/src/taming-transformers:${PYTHONPATH}"
+
 LOG_FILE="outputs/tv2v/experiment_$(date '+%Y%m%d_%H%M%S').log"
 
 # 1. The information for each video
@@ -9,7 +13,8 @@ prompts=(
     #"Two focused fencers in white uniforms duel on a strip inside a large sports hall"
     #"A man is practising his golf swing on the green front lawn of a brick house"
     #"A rider on horseback navigates an obstacle course in a sandy arena with trees and hills"
-    "A skater with a red backpack is carving on a paved road next to a snowy mountain"
+    #"A skater with a red backpack is carving on a paved road next to a snowy mountain"
+    "A climber ascends a challenging indoor climbing wall with a follow cinematic shot"
 )
 video_paths=(
     #"/scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BoxingPunchingBag_g01_c03.mp4"
@@ -17,7 +22,8 @@ video_paths=(
     #"/scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4"
     #"/scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_GolfSwing_g02_c02_25fps.mp4"
     #"/scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HorseRiding_g01_c06_25fps.mp4"
-    "/scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_SkateBoarding_g01_c03.mp4"
+    #"/scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_SkateBoarding_g01_c03.mp4"
+    "/parallel_scratch/rs02358/Reference_Videos/v_RockClimbingIndoor_g13_c03.mp4"
 )
 save_paths=(
     #"outputs/tv2v/BoxingPunchingBag"
@@ -25,7 +31,8 @@ save_paths=(
     #"outputs/tv2v/Fencing"
     #"outputs/tv2v/GolfSwing"
     #"outputs/tv2v/HorseRiding"
-    "outputs/tv2v/SkateBoarding"
+    #"outputs/tv2v/SkateBoarding"
+    "outputs/tv2v/RockClimbingIndoor"
 )
 
 # 2. add_prompt/basemodel pairs
