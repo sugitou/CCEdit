@@ -3,9 +3,23 @@
     "lora_path": "",
     "vae_path": "",
     "video_paths": [
+        "/scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4",
+        "/scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4",
+        "/scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4",
+        "/scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4",
+        "/scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4",
+        "/scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4",
+        "/scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4",
         "/scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4"
     ],
     "keyframes_paths": [
-        "outputs/tv2v/test/revAnimated_v2Rebirth/result/mp4/animation-0000.mp4"
+        "outputs/tv2v/test/revAnimated_v2Rebirth/result/mp4/animation-0000.mp4",
+        "outputs/tv2v/test/revAnimated_v2Rebirth/result/mp4/animation-0001.mp4",
+        "outputs/tv2v/test/revAnimated_v2Rebirth/result/mp4/animation-0002.mp4",
+        "outputs/tv2v/test/revAnimated_v2Rebirth/result/mp4/animation-0003.mp4",
+        "outputs/tv2v/test/revAnimated_v2Rebirth/result/mp4/animation-0004.mp4",
+        "outputs/tv2v/test/revAnimated_v2Rebirth/result/mp4/animation-0004.mp4",
+        "outputs/tv2v/test/revAnimated_v2Rebirth/result/mp4/animation-0004.mp4",
+        "outputs/tv2v/test/revAnimated_v2Rebirth/result/mp4/animation-0004.mp4"
     ]
 }
