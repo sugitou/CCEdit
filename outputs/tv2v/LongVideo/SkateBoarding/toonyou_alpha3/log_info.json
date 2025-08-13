@@ -1,0 +1,11 @@
+{
+    "basemodel_path": "models/base/toonyou_alpha3.safetensors",
+    "lora_path": "",
+    "vae_path": "",
+    "video_paths": [
+        "/parallel_scratch/rs02358/Reference_Videos/v_SkateBoarding_g01_c03.mp4"
+    ],
+    "keyframes_paths": [
+        "outputs/tv2v/LongVideo/SkateBoarding/toonyou_alpha3/result/mp4/animation-0000.mp4"
+    ]
+}
