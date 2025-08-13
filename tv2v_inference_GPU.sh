@@ -3,7 +3,8 @@ set -euo pipefail
 
 # ====== 監視の設定 ======
 INTERVAL=1  # 監視間隔(秒)
-OUTDIR="/scratch/rs02358/ved_dissertation/CCEdit/outputs/hardware-log/Fencing"
+#OUTDIR="/scratch/rs02358/ved_dissertation/CCEdit/outputs/Lookout/Boxing_160f"
+OUTDIR="/parallel_scratch/rs02358/CCEdit/outputs/Lookout/Boxing_80f"
 mkdir -p "$OUTDIR"
 
 GPU_CSV="$OUTDIR/gpu.csv"             # GPU全体: index, usedMiB, totalMiB, util%, memUtil%
@@ -56,9 +57,9 @@ cleanup() {
 trap cleanup EXIT INT TERM
 
 # ====== あなたの元の環境変数 ======
-#export ACCELERATE_USE_DEEPSPEED=0
-#export TRITON_CACHE_DIR=/parallel_scratch/rs02358/.triton/autotune
-#export PYTHONPATH="/parallel_scratch/rs02358/CCEdit/src/taming-transformers:${PYTHONPATH}"
+export ACCELERATE_USE_DEEPSPEED=0
+export TRITON_CACHE_DIR=/parallel_scratch/rs02358/.triton/autotune
+export PYTHONPATH="/parallel_scratch/rs02358/CCEdit/src/taming-transformers:${PYTHONPATH:-}"
 
 # ====== あなたの元の実行コマンド ======
 python scripts/sampling/sampling_tv2v.py \
@@ -66,17 +67,17 @@ python scripts/sampling/sampling_tv2v.py \
     --ckpt_path models/tv2v-no2ndca-depthmidas.ckpt \
     --H 192 --W 256 \
     --original_fps 25 --target_fps 8 \
-    --num_keyframes 16 --batch_size 1 --num_samples 1 \
-    --sample_steps 100 --sampler_name DPMPP2SAncestralSampler --cfg_scale 12 \
-    --prompt 'Two focused fencers in white uniforms duel on a strip inside a large sports hall' \
-    --video_path /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4 \
-    --add_prompt 'anime style' \
-    --save_path outputs/tv2v/test \
+    --num_keyframes 80 --batch_size 1 --num_samples 1 \
+    --sample_steps 100 --sampler_name DPMPP2SAncestralSampler --cfg_scale 9 \
+    --prompt 'A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym' \
+    --video_path /parallel_scratch/rs02358/Reference_Videos/v_BoxingPunchingBag_g01_c03.mp4 \
+    --add_prompt 'pixel art style' \
+    --save_path outputs/tv2v/LongVideo/Boxing \
     --disable_check_repeat \
     --prior_coefficient_x 0.3 \
-    --basemodel_path models/base/revAnimated_v2Rebirth.safetensors &
-    # --lora_path models/lora/PixelArtRedmond15V-PixelArt-PIXARFK.safetensors \
-    # --lora_strength 0.8 \
+    --basemodel_path models/base/Counterfeit-V3.0.safetensors \
+    --lora_path models/lora/PixelArtRedmond15V-PixelArt-PIXARFK.safetensors \
+    --lora_strength 0.8 &
 
 TARGET_PID=$!
 

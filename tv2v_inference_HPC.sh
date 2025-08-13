@@ -9,14 +9,14 @@ python scripts/sampling/sampling_tv2v.py \
     --ckpt_path models/tv2v-no2ndca-depthmidas.ckpt \
     --H 192 --W 256 \
     --original_fps 25 --target_fps 8 \
-    --num_keyframes 120 --batch_size 1 --num_samples 1 \
-    --sample_steps 100 --sampler_name DPMPP2SAncestralSampler  --cfg_scale 12 \
-    --prompt 'Two focused fencers in white uniforms duel on a strip inside a large sports hall' \
-    --video_path /parallel_scratch/rs02358/Reference_Videos/v_RockClimbingIndoor_g13_c03.mp4 \
+    --num_keyframes 80 --batch_size 1 --num_samples 1 \
+    --sample_steps 100 --sampler_name DPMPP2SAncestralSampler  --cfg_scale 5 \
+    --prompt 'A skater with a red backpack is carving on a paved road next to a snowy mountain' \
+    --video_path /parallel_scratch/rs02358/Reference_Videos/v_SkateBoarding_g01_c03.mp4 \
     --add_prompt 'anime style' \
-    --save_path outputs/tv2v/Fencing-Longvideo \
+    --save_path outputs/tv2v/LongVideo/SkateBoarding \
     --disable_check_repeat \
-    --prior_coefficient_x 0.3 \
-    --basemodel_path models/base/revAnimated_v2Rebirth.safetensors \
+    --prior_coefficient_x 0.1 \
+    --basemodel_path models/base/toonyou_alpha3.safetensors \
     # --lora_path models/lora/PixelArtRedmond15V-PixelArt-PIXARFK.safetensors \
     # --lora_strength 0.8 \

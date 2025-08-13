@@ -1,0 +1,11 @@
+{
+    "basemodel_path": "models/base/revAnimated_v2Rebirth.safetensors",
+    "lora_path": "",
+    "vae_path": "",
+    "video_paths": [
+        "/parallel_scratch/rs02358/Reference_Videos/v_BrushingTeeth_g01_c04.mp4"
+    ],
+    "keyframes_paths": [
+        "outputs/tv2v/LongVideo/Brushing/revAnimated_v2Rebirth/result/mp4/animation-0000.mp4"
+    ]
+}
