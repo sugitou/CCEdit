@@ -1,0 +1,7 @@
+Timestamp,Filename,Prompt,CLIP Score,PickScore,Temporal Consistency,Embedding Distance,FPS (Video),FPS (Eval),Frames,Resolution,Duration
+2025-08-13 13:03:28,animation-0000.mp4,"A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym, pixel art style",0.3508,18.0143,0.9237,0.6374,8.00,1,24,256x192,3.00 sec
+2025-08-13 13:03:43,animation-0001.mp4,"A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym, pixel art style",0.3542,17.5116,0.8845,0.6298,8.00,1,24,256x192,3.00 sec
+2025-08-13 13:03:55,animation-0002.mp4,"A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym, pixel art style",0.37,17.531,0.9522,0.625,8.00,1,24,256x192,3.00 sec
+2025-08-13 13:04:10,animation-0003.mp4,"A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym, pixel art style",0.3245,17.6266,0.8967,0.6614,8.00,1,24,256x192,3.00 sec
+2025-08-13 13:04:29,animation-0004.mp4,"A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym, pixel art style",0.3449,17.8638,0.8976,0.6438,8.00,1,24,256x192,3.00 sec
+2025-08-13 13:04:39,animation-0005.mp4,"A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym, pixel art style",0.3315,17.8354,0.8342,0.651,8.00,1,24,256x192,3.00 sec

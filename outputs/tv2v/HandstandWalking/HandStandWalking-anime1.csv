@@ -1,0 +1,7 @@
+Timestamp,Filename,Prompt,CLIP Score,PickScore,Temporal Consistency,Embedding Distance,FPS (Video),FPS (Eval),Frames,Resolution,Duration
+2025-08-13 18:17:46,animation-0000.mp4,"An athletic person holds a steady handstand on a grassy hill under a vast blue sky, anime style",0.3124,19.366,0.9215,0.6806,8.00,1,24,256x192,3.00 sec
+2025-08-13 18:17:58,animation-0001.mp4,"An athletic person holds a steady handstand on a grassy hill under a vast blue sky, anime style",0.3031,19.6691,0.958,0.6923,8.00,1,24,256x192,3.00 sec
+2025-08-13 18:18:05,animation-0002.mp4,"An athletic person holds a steady handstand on a grassy hill under a vast blue sky, anime style",0.3103,19.4003,0.9391,0.6846,8.00,1,24,256x192,3.00 sec
+2025-08-13 18:18:19,animation-0003.mp4,"An athletic person holds a steady handstand on a grassy hill under a vast blue sky, anime style",0.2978,19.7308,0.9643,0.6984,8.00,1,24,256x192,3.00 sec
+2025-08-13 18:18:30,animation-0004.mp4,"An athletic person holds a steady handstand on a grassy hill under a vast blue sky, anime style",0.3032,19.4323,0.9554,0.6926,8.00,1,24,256x192,3.00 sec
+2025-08-13 18:18:42,animation-0005.mp4,"An athletic person holds a steady handstand on a grassy hill under a vast blue sky, anime style",0.3064,19.7739,0.9448,0.6886,8.00,1,24,256x192,3.00 sec

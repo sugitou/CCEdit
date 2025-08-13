@@ -1,0 +1,7 @@
+Timestamp,Filename,Prompt,CLIP Score,PickScore,Temporal Consistency,Embedding Distance,FPS (Video),FPS (Eval),Frames,Resolution,Duration
+2025-08-13 21:10:06,animation-0000.mp4,"A skater with a red backpack is carving on a paved road next to a snowy mountain, mecha style",0.314,17.8891,0.877,0.6715999841690063,8.00,1,24,256x192,3.00 sec
+2025-08-13 21:10:22,animation-0001.mp4,"A skater with a red backpack is carving on a paved road next to a snowy mountain, mecha style",0.3596,18.8167,0.8747,0.6218000054359436,8.00,1,24,256x192,3.00 sec
+2025-08-13 21:11:04,animation-0002.mp4,"A skater with a red backpack is carving on a paved road next to a snowy mountain, mecha style",0.3111,17.7176,0.8681,0.673799991607666,8.00,1,24,256x192,3.00 sec
+2025-08-13 21:11:17,animation-0003.mp4,"A skater with a red backpack is carving on a paved road next to a snowy mountain, mecha style",0.348,18.4275,0.8657,0.6328999996185303,8.00,1,24,256x192,3.00 sec
+2025-08-13 21:11:29,animation-0004.mp4,"A skater with a red backpack is carving on a paved road next to a snowy mountain, mecha style",0.3234,18.0549,0.8401,0.6564000248908997,8.00,1,24,256x192,3.00 sec
+2025-08-13 21:11:37,animation-0005.mp4,"A skater with a red backpack is carving on a paved road next to a snowy mountain, mecha style",0.3384,18.4609,0.8928,0.6478000283241272,8.00,1,24,256x192,3.00 sec

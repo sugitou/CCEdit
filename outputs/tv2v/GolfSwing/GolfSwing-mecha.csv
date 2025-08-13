@@ -1,0 +1,7 @@
+Timestamp,Filename,Prompt,CLIP Score,PickScore,Temporal Consistency,Embedding Distance,FPS (Video),FPS (Eval),Frames,Resolution,Duration
+2025-08-13 17:29:44,animation-0000.mp4,"A man is practising his golf swing on the green front lawn of a brick house, mecha style",0.3093,18.7334,0.9508,0.6857,8.00,1,24,256x192,3.00 sec
+2025-08-13 17:30:04,animation-0001.mp4,"A man is practising his golf swing on the green front lawn of a brick house, mecha style",0.3088,19.6594,0.949,0.6862,8.00,1,24,256x192,3.00 sec
+2025-08-13 17:30:20,animation-0002.mp4,"A man is practising his golf swing on the green front lawn of a brick house, mecha style",0.2631,19.1245,0.9828,0.7352,8.00,1,24,256x192,3.00 sec
+2025-08-13 17:30:34,animation-0003.mp4,"A man is practising his golf swing on the green front lawn of a brick house, mecha style",0.2971,19.7787,0.9143,0.6943,8.00,1,24,256x192,3.00 sec
+2025-08-13 17:30:47,animation-0004.mp4,"A man is practising his golf swing on the green front lawn of a brick house, mecha style",0.2595,19.0213,0.9746,0.7379,8.00,1,24,256x192,3.00 sec
+2025-08-13 17:30:56,animation-0005.mp4,"A man is practising his golf swing on the green front lawn of a brick house, mecha style",0.3007,19.7295,0.9495,0.6938,8.00,1,24,256x192,3.00 sec

@@ -1,0 +1,7 @@
+Timestamp,Filename,Prompt,CLIP Score,PickScore,Temporal Consistency,Embedding Distance,FPS (Video),FPS (Eval),Frames,Resolution,Duration
+2025-08-13 15:03:04,animation-0000.mp4,"A young girl with long blonde hair is brushing her teeth in a bathroom, mecha style",0.3295,18.7721,0.9293,0.6607999801635742,8.00,1,24,256x192,3.00 sec
+2025-08-13 15:03:13,animation-0001.mp4,"A young girl with long blonde hair is brushing her teeth in a bathroom, mecha style",0.3578,18.9279,0.9564,0.6360999941825867,8.00,1,24,256x192,3.00 sec
+2025-08-13 15:03:23,animation-0002.mp4,"A young girl with long blonde hair is brushing her teeth in a bathroom, mecha style",0.3735,18.9803,0.9343,0.616599977016449,8.00,1,24,256x192,3.00 sec
+2025-08-13 15:04:19,animation-0003.mp4,"A young girl with long blonde hair is brushing her teeth in a bathroom, mecha style",0.377,19.3727,0.9377,0.6140999794006348,8.00,1,24,256x192,3.00 sec
+2025-08-13 15:04:45,animation-0004.mp4,"A young girl with long blonde hair is brushing her teeth in a bathroom, mecha style",0.364,19.0326,0.929,0.6265000104904175,8.00,1,24,256x192,3.00 sec
+2025-08-13 15:04:57,animation-0005.mp4,"A young girl with long blonde hair is brushing her teeth in a bathroom, mecha style",0.3773,19.3135,0.9236,0.6129000186920166,8.00,1,24,256x192,3.00 sec

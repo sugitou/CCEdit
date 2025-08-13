@@ -1,0 +1,7 @@
+Timestamp,Filename,Prompt,CLIP Score,PickScore,Temporal Consistency,Embedding Distance,FPS (Video),FPS (Eval),Frames,Resolution,Duration
+2025-08-13 17:25:37,animation-0000.mp4,"A man is practising his golf swing on the green front lawn of a brick house, pixel art style",0.3068,18.3275,0.9584,0.6881,8.00,1,24,256x192,3.00 sec
+2025-08-13 17:25:51,animation-0001.mp4,"A man is practising his golf swing on the green front lawn of a brick house, pixel art style",0.31,18.8936,0.9673,0.6866,8.00,1,24,256x192,3.00 sec
+2025-08-13 17:25:59,animation-0002.mp4,"A man is practising his golf swing on the green front lawn of a brick house, pixel art style",0.3155,18.4818,0.9707,0.6809,8.00,1,24,256x192,3.00 sec
+2025-08-13 17:26:21,animation-0003.mp4,"A man is practising his golf swing on the green front lawn of a brick house, pixel art style",0.3284,18.8801,0.9616,0.6669,8.00,1,24,256x192,3.00 sec
+2025-08-13 17:26:45,animation-0004.mp4,"A man is practising his golf swing on the green front lawn of a brick house, pixel art style",0.3107,18.5202,0.9261,0.6828,8.00,1,24,256x192,3.00 sec
+2025-08-13 17:26:55,animation-0005.mp4,"A man is practising his golf swing on the green front lawn of a brick house, pixel art style",0.3221,18.8666,0.9649,0.6742,8.00,1,24,256x192,3.00 sec

@@ -1,0 +1,7 @@
+Timestamp,Filename,Prompt,CLIP Score,PickScore,Temporal Consistency,Embedding Distance,FPS (Video),FPS (Eval),Frames,Resolution,Duration
+2025-08-12 23:32:40,animation-0000.mp4,"A focused woman carefully applies eyeliner with a thin brush in her bathroom, mecha style",0.2299,16.555,0.9766,0.7679,8.00,1,24,256x192,3.00 sec
+2025-08-12 23:32:58,animation-0001_prior0.1.mp4,"A focused woman carefully applies eyeliner with a thin brush in her bathroom, mecha style",0.2992,17.5669,0.9342,0.6924,8.00,1,24,256x192,3.00 sec
+2025-08-12 23:33:10,animation-0004_cfg9.mp4,"A focused woman carefully applies eyeliner with a thin brush in her bathroom, mecha style",0.2459,17.0003,0.9615,0.7501,8.00,1,24,256x192,3.00 sec
+2025-08-12 23:33:27,animation-0002_prior0.1_cfg9.mp4,"A focused woman carefully applies eyeliner with a thin brush in her bathroom, mecha style",0.2965,17.8623,0.8962,0.689,8.00,1,24,256x192,3.00 sec
+2025-08-12 23:33:41,animation-0005_cfg12.mp4,"A focused woman carefully applies eyeliner with a thin brush in her bathroom, mecha style",0.2213,17.3702,0.9598,0.7746,8.00,1,24,256x192,3.00 sec
+2025-08-12 23:33:50,animation-0003_prior0.1_cfg12.mp4,"A focused woman carefully applies eyeliner with a thin brush in her bathroom, mecha style",0.3029,17.8004,0.861,0.6775,8.00,1,24,256x192,3.00 sec

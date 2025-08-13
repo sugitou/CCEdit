@@ -1,0 +1,7 @@
+Timestamp,Filename,Prompt,CLIP Score,PickScore,Temporal Consistency,Embedding Distance,FPS (Video),FPS (Eval),Frames,Resolution,Duration
+2025-08-13 17:35:43,animation-0000.mp4,"A man is practising his golf swing on the green front lawn of a brick house, anime style",0.3234,19.6317,0.9671,0.673,8.00,1,24,256x192,3.00 sec
+2025-08-13 17:35:53,animation-0001.mp4,"A man is practising his golf swing on the green front lawn of a brick house, anime style",0.3382,20.6586,0.9302,0.6536,8.00,1,24,256x192,3.00 sec
+2025-08-13 17:36:06,animation-0002.mp4,"A man is practising his golf swing on the green front lawn of a brick house, anime style",0.2923,19.6668,0.9719,0.7039,8.00,1,24,256x192,3.00 sec
+2025-08-13 17:36:22,animation-0003.mp4,"A man is practising his golf swing on the green front lawn of a brick house, anime style",0.3073,20.6316,0.9632,0.6884,8.00,1,24,256x192,3.00 sec
+2025-08-13 17:36:29,animation-0004.mp4,"A man is practising his golf swing on the green front lawn of a brick house, anime style",0.3046,19.5697,0.9793,0.6928,8.00,1,24,256x192,3.00 sec
+2025-08-13 17:36:36,animation-0005.mp4,"A man is practising his golf swing on the green front lawn of a brick house, anime style",0.3329,20.4104,0.9664,0.6632,8.00,1,24,256x192,3.00 sec

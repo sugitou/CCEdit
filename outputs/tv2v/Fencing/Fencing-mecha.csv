@@ -1,0 +1,7 @@
+Timestamp,Filename,Prompt,CLIP Score,PickScore,Temporal Consistency,Embedding Distance,FPS (Video),FPS (Eval),Frames,Resolution,Duration
+2025-08-13 16:53:13,animation-0000.mp4,"Two focused fencers in white uniforms duel on a strip inside a large sports hall, mecha style",0.3792,18.7044,0.9626,0.616,8.00,1,24,256x192,3.00 sec
+2025-08-13 16:53:32,animation-0001.mp4,"Two focused fencers in white uniforms duel on a strip inside a large sports hall, mecha style",0.3645,19.1371,0.8643,0.6168,8.00,1,24,256x192,3.00 sec
+2025-08-13 16:53:43,animation-0002.mp4,"Two focused fencers in white uniforms duel on a strip inside a large sports hall, mecha style",0.3568,18.7404,0.9068,0.6335,8.00,1,24,256x192,3.00 sec
+2025-08-13 16:53:52,animation-0003.mp4,"Two focused fencers in white uniforms duel on a strip inside a large sports hall, mecha style",0.3725,19.0718,0.9155,0.616,8.00,1,24,256x192,3.00 sec
+2025-08-13 16:54:05,animation-0004.mp4,"Two focused fencers in white uniforms duel on a strip inside a large sports hall, mecha style",0.3395,18.9463,0.8718,0.647,8.00,1,24,256x192,3.00 sec
+2025-08-13 16:54:16,animation-0005.mp4,"Two focused fencers in white uniforms duel on a strip inside a large sports hall, mecha style",0.3601,19.0546,0.893,0.6255,8.00,1,24,256x192,3.00 sec

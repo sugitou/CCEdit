@@ -1,0 +1,7 @@
+Timestamp,Filename,Prompt,CLIP Score,PickScore,Temporal Consistency,Embedding Distance,FPS (Video),FPS (Eval),Frames,Resolution,Duration
+2025-08-13 15:37:23,animation-0000.mp4,"A strong man performs an impressive snatch, lifting a heavy barbell overhead in a gym, pixel art style",0.2933,16.7469,0.9397,0.7011,8.00,1,24,256x192,3.00 sec
+2025-08-13 15:37:35,animation-0001.mp4,"A strong man performs an impressive snatch, lifting a heavy barbell overhead in a gym, pixel art style",0.2928,16.8327,0.9368,0.7003,8.00,1,24,256x192,3.00 sec
+2025-08-13 15:37:43,animation-0002.mp4,"A strong man performs an impressive snatch, lifting a heavy barbell overhead in a gym, pixel art style",0.286,17.1965,0.9418,0.708,8.00,1,24,256x192,3.00 sec
+2025-08-13 15:37:53,animation-0003.mp4,"A strong man performs an impressive snatch, lifting a heavy barbell overhead in a gym, pixel art style",0.2994,16.9405,0.9471,0.6948,8.00,1,24,256x192,3.00 sec
+2025-08-13 15:38:08,animation-0004.mp4,"A strong man performs an impressive snatch, lifting a heavy barbell overhead in a gym, pixel art style",0.3097,17.1445,0.955,0.6848,8.00,1,24,256x192,3.00 sec
+2025-08-13 15:38:19,animation-0005.mp4,"A strong man performs an impressive snatch, lifting a heavy barbell overhead in a gym, pixel art style",0.3173,17.7783,0.9209,0.6739,8.00,1,24,256x192,3.00 sec

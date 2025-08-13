@@ -1,0 +1,7 @@
+Timestamp,Filename,Prompt,CLIP Score,PickScore,Temporal Consistency,Embedding Distance,FPS (Video),FPS (Eval),Frames,Resolution,Duration
+2025-08-13 18:10:49,animation-0000.mp4,"An athletic person holds a steady handstand on a grassy hill under a vast blue sky, pixel art style",0.276,18.6422,0.96,0.7203,8.00,1,24,256x192,3.00 sec
+2025-08-13 18:11:04,animation-0001.mp4,"An athletic person holds a steady handstand on a grassy hill under a vast blue sky, pixel art style",0.2793,18.7971,0.922,0.7127,8.00,1,24,256x192,3.00 sec
+2025-08-13 18:11:13,animation-0002.mp4,"An athletic person holds a steady handstand on a grassy hill under a vast blue sky, pixel art style",0.2641,18.3187,0.9475,0.7311,8.00,1,24,256x192,3.00 sec
+2025-08-13 18:11:20,animation-0003.mp4,"An athletic person holds a steady handstand on a grassy hill under a vast blue sky, pixel art style",0.3045,18.8508,0.9462,0.6897,8.00,1,24,256x192,3.00 sec
+2025-08-13 18:11:53,animation-0004.mp4,"An athletic person holds a steady handstand on a grassy hill under a vast blue sky, pixel art style",0.2653,18.2725,0.9373,0.7281,8.00,1,24,256x192,3.00 sec
+2025-08-13 18:12:11,animation-0005.mp4,"An athletic person holds a steady handstand on a grassy hill under a vast blue sky, pixel art style",0.3114,18.9268,0.9489,0.6829,8.00,1,24,256x192,3.00 sec

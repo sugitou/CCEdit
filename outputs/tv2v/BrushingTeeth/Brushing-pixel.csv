@@ -1,0 +1,7 @@
+Timestamp,Filename,Prompt,CLIP Score,PickScore,Temporal Consistency,Embedding Distance,FPS (Video),FPS (Eval),Frames,Resolution,Duration
+2025-08-13 14:59:03,animation-0000.mp4,"A young girl with long blonde hair is brushing her teeth in a bathroom, pixel art style",0.3305,17.7279,0.9344,0.6588,8.00,1,24,256x192,3.00 sec
+2025-08-13 14:59:19,animation-0001.mp4,"A young girl with long blonde hair is brushing her teeth in a bathroom, pixel art style",0.3209,17.7155,0.9368,0.6707,8.00,1,24,256x192,3.00 sec
+2025-08-13 14:59:30,animation-0002.mp4,"A young girl with long blonde hair is brushing her teeth in a bathroom, pixel art style",0.3552,17.6605,0.9276,0.635,8.00,1,24,256x192,3.00 sec
+2025-08-13 14:59:44,animation-0003.mp4,"A young girl with long blonde hair is brushing her teeth in a bathroom, pixel art style",0.3456,17.653,0.9275,0.645,8.00,1,24,256x192,3.00 sec
+2025-08-13 14:59:53,animation-0004.mp4,"A young girl with long blonde hair is brushing her teeth in a bathroom, pixel art style",0.3205,17.3373,0.9275,0.6701,8.00,1,24,256x192,3.00 sec
+2025-08-13 15:00:07,animation-0005.mp4,"A young girl with long blonde hair is brushing her teeth in a bathroom, pixel art style",0.3468,17.4275,0.9228,0.6425,8.00,1,24,256x192,3.00 sec

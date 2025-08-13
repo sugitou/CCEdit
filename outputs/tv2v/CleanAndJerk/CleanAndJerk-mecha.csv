@@ -1,0 +1,7 @@
+Timestamp,Filename,Prompt,CLIP Score,PickScore,Temporal Consistency,Embedding Distance,FPS (Video),FPS (Eval),Frames,Resolution,Duration
+2025-08-13 15:42:59,animation-0000.mp4,"A strong man performs an impressive snatch, lifting a heavy barbell overhead in a gym, mecha style",0.3079,17.4315,0.882,0.6809,8.00,1,24,256x192,3.00 sec
+2025-08-13 15:43:09,animation-0001.mp4,"A strong man performs an impressive snatch, lifting a heavy barbell overhead in a gym, mecha style",0.2989,17.6531,0.889,0.6893,8.00,1,24,256x192,3.00 sec
+2025-08-13 15:43:23,animation-0002.mp4,"A strong man performs an impressive snatch, lifting a heavy barbell overhead in a gym, mecha style",0.2823,17.9285,0.9219,0.7084,8.00,1,24,256x192,3.00 sec
+2025-08-13 15:44:06,animation-0003.mp4,"A strong man performs an impressive snatch, lifting a heavy barbell overhead in a gym, mecha style",0.3148,17.6518,0.9236,0.6766,8.00,1,24,256x192,3.00 sec
+2025-08-13 15:44:20,animation-0004.mp4,"A strong man performs an impressive snatch, lifting a heavy barbell overhead in a gym, mecha style",0.3133,18.0477,0.8506,0.6713,8.00,1,24,256x192,3.00 sec
+2025-08-13 15:44:38,animation-0005.mp4,"A strong man performs an impressive snatch, lifting a heavy barbell overhead in a gym, mecha style",0.3205,17.7895,0.8706,0.6646,8.00,1,24,256x192,3.00 sec

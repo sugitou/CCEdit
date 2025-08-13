@@ -1,0 +1,7 @@
+Timestamp,Filename,Prompt,CLIP Score,PickScore,Temporal Consistency,Embedding Distance,FPS (Video),FPS (Eval),Frames,Resolution,Duration
+2025-08-13 16:59:39,animation-0000.mp4,"Two focused fencers in white uniforms duel on a strip inside a large sports hall, anime style",0.3521,19.498,0.8767,0.6339,8.00,1,24,256x192,3.00 sec
+2025-08-13 16:59:46,animation-0001.mp4,"Two focused fencers in white uniforms duel on a strip inside a large sports hall, anime style",0.3539,19.4306,0.8949,0.6311,8.00,1,24,256x192,3.00 sec
+2025-08-13 16:59:53,animation-0002.mp4,"Two focused fencers in white uniforms duel on a strip inside a large sports hall, anime style",0.3527,19.4407,0.8977,0.635,8.00,1,24,256x192,3.00 sec
+2025-08-13 17:00:10,animation-0003.mp4,"Two focused fencers in white uniforms duel on a strip inside a large sports hall, anime style",0.3476,19.8546,0.9002,0.6396,8.00,1,24,256x192,3.00 sec
+2025-08-13 17:00:17,animation-0004.mp4,"Two focused fencers in white uniforms duel on a strip inside a large sports hall, anime style",0.3691,19.3664,0.9426,0.624,8.00,1,24,256x192,3.00 sec
+2025-08-13 17:00:26,animation-0005.mp4,"Two focused fencers in white uniforms duel on a strip inside a large sports hall, anime style",0.3862,20.3687,0.9038,0.5999,8.00,1,24,256x192,3.00 sec

@@ -1,0 +1,7 @@
+Timestamp,Filename,Prompt,CLIP Score,PickScore,Temporal Consistency,Embedding Distance,FPS (Video),FPS (Eval),Frames,Resolution,Duration
+2025-08-13 19:03:19,animation-0000.mp4,"A rider on horseback navigates an obstacle course in a sandy arena with trees and hills, anime style",0.2716,17.6277,0.9098,0.7199,8.00,1,24,256x192,3.00 sec
+2025-08-13 19:03:32,animation-0001.mp4,"A rider on horseback navigates an obstacle course in a sandy arena with trees and hills, anime style",0.2981,18.4916,0.9247,0.6938,8.00,1,24,256x192,3.00 sec
+2025-08-13 19:03:44,animation-0002.mp4,"A rider on horseback navigates an obstacle course in a sandy arena with trees and hills, anime style",0.2736,17.8184,0.8805,0.7154,8.00,1,24,256x192,3.00 sec
+2025-08-13 19:04:00,animation-0003.mp4,"A rider on horseback navigates an obstacle course in a sandy arena with trees and hills, anime style",0.274,18.6096,0.9054,0.7178,8.00,1,24,256x192,3.00 sec
+2025-08-13 19:04:11,animation-0004.mp4,"A rider on horseback navigates an obstacle course in a sandy arena with trees and hills, anime style",0.2591,18.0138,0.8881,0.7313,8.00,1,24,256x192,3.00 sec
+2025-08-13 19:04:28,animation-0005.mp4,"A rider on horseback navigates an obstacle course in a sandy arena with trees and hills, anime style",0.3013,18.6467,0.8245,0.6768,8.00,1,24,256x192,3.00 sec

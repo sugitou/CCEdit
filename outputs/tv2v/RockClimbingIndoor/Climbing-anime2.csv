@@ -1,0 +1,7 @@
+Timestamp,Filename,Prompt,CLIP Score,PickScore,Temporal Consistency,Embedding Distance,FPS (Video),FPS (Eval),Frames,Resolution,Duration
+2025-08-13 19:39:04,animation-0000.mp4,"A climber ascends a challenging indoor climbing wall with a follow cinematic shot, anime style",0.2543,17.8124,0.9194,0.7382,8.00,1,24,256x192,3.00 sec
+2025-08-13 19:39:15,animation-0001.mp4,"A climber ascends a challenging indoor climbing wall with a follow cinematic shot, anime style",0.2932,18.7965,0.9337,0.6996,8.00,1,24,256x192,3.00 sec
+2025-08-13 19:39:25,animation-0002.mp4,"A climber ascends a challenging indoor climbing wall with a follow cinematic shot, anime style",0.2448,17.974,0.9302,0.7492,8.00,1,24,256x192,3.00 sec
+2025-08-13 19:39:45,animation-0003.mp4,"A climber ascends a challenging indoor climbing wall with a follow cinematic shot, anime style",0.2923,18.2829,0.942,0.7008,8.00,1,24,256x192,3.00 sec
+2025-08-13 19:39:52,animation-0004.mp4,"A climber ascends a challenging indoor climbing wall with a follow cinematic shot, anime style",0.2679,18.0993,0.9512,0.7277,8.00,1,24,256x192,3.00 sec
+2025-08-13 19:40:00,animation-0005.mp4,"A climber ascends a challenging indoor climbing wall with a follow cinematic shot, anime style",0.2831,18.0871,0.9415,0.7105,8.00,1,24,256x192,3.00 sec

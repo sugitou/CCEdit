@@ -1,0 +1,7 @@
+Timestamp,Filename,Prompt,CLIP Score,PickScore,Temporal Consistency,Embedding Distance,FPS (Video),FPS (Eval),Frames,Resolution,Duration
+2025-08-13 13:12:06,animation-0000.mp4,"A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym, mecha style",0.3404,18.649,0.951,0.6539,8.00,1,24,256x192,3.00 sec
+2025-08-13 13:12:22,animation-0001.mp4,"A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym, mecha style",0.3634,18.0286,0.9097,0.6276,8.00,1,24,256x192,3.00 sec
+2025-08-13 13:12:30,animation-0002.mp4,"A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym, mecha style",0.3591,18.5984,0.918,0.632,8.00,1,24,256x192,3.00 sec
+2025-08-13 13:12:39,animation-0003.mp4,"A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym, mecha style",0.3514,18.7575,0.9025,0.6378,8.00,1,24,256x192,3.00 sec
+2025-08-13 13:12:47,animation-0004.mp4,"A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym, mecha style",0.3527,18.6442,0.9343,0.6384,8.00,1,24,256x192,3.00 sec
+2025-08-13 13:12:55,animation-0005.mp4,"A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym, mecha style",0.3318,18.4204,0.9122,0.6594,8.00,1,24,256x192,3.00 sec

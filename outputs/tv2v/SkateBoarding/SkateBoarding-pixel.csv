@@ -1,0 +1,7 @@
+Timestamp,Filename,Prompt,CLIP Score,PickScore,Temporal Consistency,Embedding Distance,FPS (Video),FPS (Eval),Frames,Resolution,Duration
+2025-08-13 21:03:22,animation-0000.mp4,"A skater with a red backpack is carving on a paved road next to a snowy mountain, pixel art style",0.3245,18.1843,0.874,0.66,8.00,1,24,256x192,3.00 sec
+2025-08-13 21:03:46,animation-0001.mp4,"A skater with a red backpack is carving on a paved road next to a snowy mountain, pixel art style",0.3062,18.1538,0.8962,0.6794,8.00,1,24,256x192,3.00 sec
+2025-08-13 21:04:07,animation-0002.mp4,"A skater with a red backpack is carving on a paved road next to a snowy mountain, pixel art style",0.3387,18.2014,0.904,0.6471,8.00,1,24,256x192,3.00 sec
+2025-08-13 21:04:31,animation-0003.mp4,"A skater with a red backpack is carving on a paved road next to a snowy mountain, pixel art style",0.3048,18.2016,0.9033,0.685,8.00,1,24,256x192,3.00 sec
+2025-08-13 21:04:40,animation-0004.mp4,"A skater with a red backpack is carving on a paved road next to a snowy mountain, pixel art style",0.3013,18.5264,0.9008,0.6871,8.00,1,24,256x192,3.00 sec
+2025-08-13 21:04:47,animation-0005.mp4,"A skater with a red backpack is carving on a paved road next to a snowy mountain, pixel art style",0.3107,18.2026,0.8598,0.6766,8.00,1,24,256x192,3.00 sec

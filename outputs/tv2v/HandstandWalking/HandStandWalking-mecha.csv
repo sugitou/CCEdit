@@ -1,0 +1,7 @@
+Timestamp,Filename,Prompt,CLIP Score,PickScore,Temporal Consistency,Embedding Distance,FPS (Video),FPS (Eval),Frames,Resolution,Duration
+2025-08-13 18:15:07,animation-0000.mp4,"An athletic person holds a steady handstand on a grassy hill under a vast blue sky, mecha style",0.3079,18.6178,0.9711,0.689,8.00,1,24,256x192,3.00 sec
+2025-08-13 18:15:19,animation-0001.mp4,"An athletic person holds a steady handstand on a grassy hill under a vast blue sky, mecha style",0.2899,18.8528,0.9712,0.7066,8.00,1,24,256x192,3.00 sec
+2025-08-13 18:15:29,animation-0002.mp4,"An athletic person holds a steady handstand on a grassy hill under a vast blue sky, mecha style",0.3081,18.644,0.9585,0.6871,8.00,1,24,256x192,3.00 sec
+2025-08-13 18:15:39,animation-0003.mp4,"An athletic person holds a steady handstand on a grassy hill under a vast blue sky, mecha style",0.3017,18.9221,0.9609,0.6941,8.00,1,24,256x192,3.00 sec
+2025-08-13 18:15:48,animation-0004.mp4,"An athletic person holds a steady handstand on a grassy hill under a vast blue sky, mecha style",0.3017,18.8654,0.9655,0.6952,8.00,1,24,256x192,3.00 sec
+2025-08-13 18:15:58,animation-0005.mp4,"An athletic person holds a steady handstand on a grassy hill under a vast blue sky, mecha style",0.3019,19.036,0.9753,0.6953,8.00,1,24,256x192,3.00 sec

@@ -1,0 +1,7 @@
+Timestamp,Filename,Prompt,CLIP Score,PickScore,Temporal Consistency,Embedding Distance,FPS (Video),FPS (Eval),Frames,Resolution,Duration
+2025-08-13 18:32:00,animation-0000.mp4,"A rider on horseback navigates an obstacle course in a sandy arena with trees and hills, mecha style",0.2868,17.7079,0.8991,0.7029,8.00,1,24,256x192,3.00 sec
+2025-08-13 18:32:12,animation-0001.mp4,"A rider on horseback navigates an obstacle course in a sandy arena with trees and hills, mecha style",0.309,18.8307,0.9126,0.6819,8.00,1,24,256x192,3.00 sec
+2025-08-13 18:32:19,animation-0002.mp4,"A rider on horseback navigates an obstacle course in a sandy arena with trees and hills, mecha style",0.2691,18.1293,0.8829,0.7188,8.00,1,24,256x192,3.00 sec
+2025-08-13 18:32:31,animation-0003.mp4,"A rider on horseback navigates an obstacle course in a sandy arena with trees and hills, mecha style",0.3135,18.5277,0.8958,0.6746,8.00,1,24,256x192,3.00 sec
+2025-08-13 18:32:39,animation-0004.mp4,"A rider on horseback navigates an obstacle course in a sandy arena with trees and hills, mecha style",0.3053,18.4519,0.8946,0.681,8.00,1,24,256x192,3.00 sec
+2025-08-13 18:32:49,animation-0005.mp4,"A rider on horseback navigates an obstacle course in a sandy arena with trees and hills, mecha style",0.3117,18.7358,0.9199,0.679,8.00,1,24,256x192,3.00 sec

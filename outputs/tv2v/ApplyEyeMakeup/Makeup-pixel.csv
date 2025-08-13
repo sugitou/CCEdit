@@ -1,0 +1,7 @@
+Timestamp,Filename,Prompt,CLIP Score,PickScore,Temporal Consistency,Embedding Distance,FPS (Video),FPS (Eval),Frames,Resolution,Duration
+2025-08-12 23:23:42,animation-0000.mp4,"A focused woman carefully applies eyeliner with a thin brush in her bathroom, pixel art style",0.2108,17.0011,0.9723,0.7868,8.00,1,24,256x192,3.00 sec
+2025-08-12 23:24:04,animation-0001_prior0.1.mp4,"A focused woman carefully applies eyeliner with a thin brush in her bathroom, pixel art style",0.2811,16.7997,0.9568,0.7142,8.00,1,24,256x192,3.00 sec
+2025-08-12 23:25:04,animation-0004_cfg9.mp4,"A focused woman carefully applies eyeliner with a thin brush in her bathroom, pixel art style",0.2361,17.2465,0.9734,0.7612,8.00,1,24,256x192,3.00 sec
+2025-08-12 23:25:21,animation-0002_prior0.1_cfg9.mp4,"A focused woman carefully applies eyeliner with a thin brush in her bathroom, pixel art style",0.2966,17.373,0.9476,0.6975,8.00,1,24,256x192,3.00 sec
+2025-08-12 23:25:38,animation-0005_cfg12.mp4,"A focused woman carefully applies eyeliner with a thin brush in her bathroom, pixel art style",0.2399,17.2982,0.9726,0.7578,8.00,1,24,256x192,3.00 sec
+2025-08-12 23:25:48,animation-0003_prior0.1_cfg12.mp4,"A focused woman carefully applies eyeliner with a thin brush in her bathroom, pixel art style",0.2907,17.5511,0.9655,0.7054,8.00,1,24,256x192,3.00 sec

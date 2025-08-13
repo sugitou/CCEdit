@@ -1,0 +1,7 @@
+Timestamp,Filename,Prompt,CLIP Score,PickScore,Temporal Consistency,Embedding Distance,FPS (Video),FPS (Eval),Frames,Resolution,Duration
+2025-08-13 16:48:07,animation-0000.mp4,"Two focused fencers in white uniforms duel on a strip inside a large sports hall, pixel art style",0.3618,19.4394,0.9332,0.6308,8.00,1,24,256x192,3.00 sec
+2025-08-13 16:48:27,animation-0001.mp4,"Two focused fencers in white uniforms duel on a strip inside a large sports hall, pixel art style",0.3713,19.257,0.9435,0.6218,8.00,1,24,256x192,3.00 sec
+2025-08-13 16:48:38,animation-0002.mp4,"Two focused fencers in white uniforms duel on a strip inside a large sports hall, pixel art style",0.3497,18.9197,0.9015,0.6394,8.00,1,24,256x192,3.00 sec
+2025-08-13 16:48:48,animation-0003.mp4,"Two focused fencers in white uniforms duel on a strip inside a large sports hall, pixel art style",0.3793,19.2067,0.9601,0.6147,8.00,1,24,256x192,3.00 sec
+2025-08-13 16:48:57,animation-0004.mp4,"Two focused fencers in white uniforms duel on a strip inside a large sports hall, pixel art style",0.3711,19.1138,0.9445,0.6208,8.00,1,24,256x192,3.00 sec
+2025-08-13 16:49:09,animation-0005.mp4,"Two focused fencers in white uniforms duel on a strip inside a large sports hall, pixel art style",0.3796,19.1084,0.9082,0.6085,8.00,1,24,256x192,3.00 sec

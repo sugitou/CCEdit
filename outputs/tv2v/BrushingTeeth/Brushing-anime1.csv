@@ -1,0 +1,7 @@
+Timestamp,Filename,Prompt,CLIP Score,PickScore,Temporal Consistency,Embedding Distance,FPS (Video),FPS (Eval),Frames,Resolution,Duration
+2025-08-13 15:08:03,animation-0000.mp4,"A young girl with long blonde hair is brushing her teeth in a bathroom, anime style",0.3451,18.4188,0.9409,0.6469,8.00,1,24,256x192,3.00 sec
+2025-08-13 15:08:14,animation-0001.mp4,"A young girl with long blonde hair is brushing her teeth in a bathroom, anime style",0.3614,19.7902,0.9286,0.6284,8.00,1,24,256x192,3.00 sec
+2025-08-13 15:08:25,animation-0002.mp4,"A young girl with long blonde hair is brushing her teeth in a bathroom, anime style",0.3325,19.0894,0.9136,0.6563,8.00,1,24,256x192,3.00 sec
+2025-08-13 15:08:33,animation-0003.mp4,"A young girl with long blonde hair is brushing her teeth in a bathroom, anime style",0.3448,19.3031,0.9128,0.6434,8.00,1,24,256x192,3.00 sec
+2025-08-13 15:09:06,animation-0004.mp4,"A young girl with long blonde hair is brushing her teeth in a bathroom, anime style",0.328,19.0548,0.8976,0.6569,8.00,1,24,256x192,3.00 sec
+2025-08-13 15:09:12,animation-0005.mp4,"A young girl with long blonde hair is brushing her teeth in a bathroom, anime style",0.3534,19.0115,0.9454,0.6382,8.00,1,24,256x192,3.00 sec

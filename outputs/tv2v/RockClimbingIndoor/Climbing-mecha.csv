@@ -1,0 +1,7 @@
+Timestamp,Filename,Prompt,CLIP Score,PickScore,Temporal Consistency,Embedding Distance,FPS (Video),FPS (Eval),Frames,Resolution,Duration
+2025-08-13 19:31:29,animation-0000.mp4,"A climber ascends a challenging indoor climbing wall with a follow cinematic shot, mecha style",0.2777,17.8759,0.8978,0.7139,8.00,1,24,256x192,3.00 sec
+2025-08-13 19:31:43,animation-0001.mp4,"A climber ascends a challenging indoor climbing wall with a follow cinematic shot, mecha style",0.3212,18.3033,0.9198,0.669,8.00,1,24,256x192,3.00 sec
+2025-08-13 19:31:53,animation-0002.mp4,"A climber ascends a challenging indoor climbing wall with a follow cinematic shot, mecha style",0.3146,18.0575,0.9142,0.6758,8.00,1,24,256x192,3.00 sec
+2025-08-13 19:32:16,animation-0003.mp4,"A climber ascends a challenging indoor climbing wall with a follow cinematic shot, mecha style",0.355,19.1348,0.9162,0.6343,8.00,1,24,256x192,3.00 sec
+2025-08-13 19:32:31,animation-0004.mp4,"A climber ascends a challenging indoor climbing wall with a follow cinematic shot, mecha style",0.3131,18.4099,0.9216,0.6773,8.00,1,24,256x192,3.00 sec
+2025-08-13 19:32:50,animation-0005.mp4,"A climber ascends a challenging indoor climbing wall with a follow cinematic shot, mecha style",0.3436,18.5706,0.9179,0.6468,8.00,1,24,256x192,3.00 sec

@@ -1,0 +1,7 @@
+Timestamp,Filename,Prompt,CLIP Score,PickScore,Temporal Consistency,Embedding Distance,FPS (Video),FPS (Eval),Frames,Resolution,Duration
+2025-08-13 21:17:53,animation-0000.mp4,"A skater with a red backpack is carving on a paved road next to a snowy mountain, anime style",0.3059,18.4748,0.881,0.6801,8.00,1,24,256x192,3.00 sec
+2025-08-13 21:18:06,animation-0001.mp4,"A skater with a red backpack is carving on a paved road next to a snowy mountain, anime style",0.3618,18.6696,0.9382,0.6296,8.00,1,24,256x192,3.00 sec
+2025-08-13 21:18:15,animation-0002.mp4,"A skater with a red backpack is carving on a paved road next to a snowy mountain, anime style",0.3201,18.4579,0.8985,0.669,8.00,1,24,256x192,3.00 sec
+2025-08-13 21:18:39,animation-0003.mp4,"A skater with a red backpack is carving on a paved road next to a snowy mountain, anime style",0.3312,18.7036,0.9335,0.6612,8.00,1,24,256x192,3.00 sec
+2025-08-13 21:19:04,animation-0004.mp4,"A skater with a red backpack is carving on a paved road next to a snowy mountain, anime style",0.3342,19.0053,0.892,0.6534,8.00,1,24,256x192,3.00 sec
+2025-08-13 21:19:17,animation-0005.mp4,"A skater with a red backpack is carving on a paved road next to a snowy mountain, anime style",0.2945,18.8719,0.9292,0.6993,8.00,1,24,256x192,3.00 sec

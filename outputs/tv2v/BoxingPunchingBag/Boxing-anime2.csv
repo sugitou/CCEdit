@@ -1,0 +1,7 @@
+Timestamp,Filename,Prompt,CLIP Score,PickScore,Temporal Consistency,Embedding Distance,FPS (Video),FPS (Eval),Frames,Resolution,Duration
+2025-08-13 13:29:42,animation-0000.mp4,"A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym, anime style",0.3622,19.3644,0.9569,0.6324999928474426,8.00,1,24,256x192,3.00 sec
+2025-08-13 13:29:59,animation-0001.mp4,"A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym, anime style",0.3831,18.188,0.9546,0.6122000217437744,8.00,1,24,256x192,3.00 sec
+2025-08-13 13:30:08,animation-0002.mp4,"A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym, anime style",0.3538,17.903,0.9291,0.6391000151634216,8.00,1,24,256x192,3.00 sec
+2025-08-13 13:30:16,animation-0003.mp4,"A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym, anime style",0.3808,18.8734,0.9577,0.6140999794006348,8.00,1,24,256x192,3.00 sec
+2025-08-13 13:30:57,animation-0004.mp4,"A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym, anime style",0.3161,18.3417,0.8969,0.6748999953269958,8.00,1,24,256x192,3.00 sec
+2025-08-13 13:31:06,animation-0005.mp4,"A man wearing white tank top practices boxing, punching a red heavy bag in his garage home gym, anime style",0.3647,17.9393,0.9714,0.6317999958992004,8.00,1,24,256x192,3.00 sec

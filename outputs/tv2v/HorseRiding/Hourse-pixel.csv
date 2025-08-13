@@ -1,0 +1,7 @@
+Timestamp,Filename,Prompt,CLIP Score,PickScore,Temporal Consistency,Embedding Distance,FPS (Video),FPS (Eval),Frames,Resolution,Duration
+2025-08-13 18:24:32,animation-0000.mp4,"A rider on horseback navigates an obstacle course in a sandy arena with trees and hills, pixel art style",0.2514,17.0278,0.9398,0.7439,8.00,1,24,256x192,3.00 sec
+2025-08-13 18:27:59,animation-0001.mp4,"A rider on horseback navigates an obstacle course in a sandy arena with trees and hills, pixel art style",0.3124,17.3048,0.9576,0.683,8.00,1,24,256x192,3.00 sec
+2025-08-13 18:28:22,animation-0002.mp4,"A rider on horseback navigates an obstacle course in a sandy arena with trees and hills, pixel art style",0.2789,17.3911,0.9545,0.717,8.00,1,24,256x192,3.00 sec
+2025-08-13 18:28:32,animation-0003.mp4,"A rider on horseback navigates an obstacle course in a sandy arena with trees and hills, pixel art style",0.3037,17.1301,0.9441,0.6905,8.00,1,24,256x192,3.00 sec
+2025-08-13 18:28:40,animation-0004.mp4,"A rider on horseback navigates an obstacle course in a sandy arena with trees and hills, pixel art style",0.2855,17.1924,0.9492,0.7098,8.00,1,24,256x192,3.00 sec
+2025-08-13 18:28:49,animation-0005.mp4,"A rider on horseback navigates an obstacle course in a sandy arena with trees and hills, pixel art style",0.3136,16.9503,0.9441,0.6801,8.00,1,24,256x192,3.00 sec
