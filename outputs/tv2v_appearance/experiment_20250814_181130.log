@@ -1,0 +1,540 @@
+==== Experiment Start ====
+datetime: 2025-08-14 18:11:30
+prompt: A knight equipping armor practices boxing, punching a red heavy bag in his garage home gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BoxingPunchingBag_g01_c03.mp4
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v_appearance/BoxingPunchingBag
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 18:13:52
+prompt: A knight equipping armor practices boxing, punching a red heavy bag in his garage home gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BoxingPunchingBag_g01_c03.mp4
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v_appearance/BoxingPunchingBag
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 18:16:12
+prompt: A knight equipping armor practices boxing, punching a red heavy bag in his garage home gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BoxingPunchingBag_g01_c03.mp4
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v_appearance/BoxingPunchingBag
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 18:18:33
+prompt: A knight equipping armor practices boxing, punching a red heavy bag in his garage home gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BoxingPunchingBag_g01_c03.mp4
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v_appearance/BoxingPunchingBag
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 18:20:52
+prompt: A knight equipping armor practices boxing, punching a red heavy bag in his garage home gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BoxingPunchingBag_g01_c03.mp4
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v_appearance/BoxingPunchingBag
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 18:23:11
+prompt: A knight equipping armor practices boxing, punching a red heavy bag in his garage home gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BoxingPunchingBag_g01_c03.mp4
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v_appearance/BoxingPunchingBag
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 18:25:30
+prompt: A crystal skeleton is brushing its teeth in a bathroom
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BrushingTeeth_g01_c04.mp4
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v_appearance/BrushingTeeth
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 18:27:50
+prompt: A crystal skeleton is brushing its teeth in a bathroom
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BrushingTeeth_g01_c04.mp4
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v_appearance/BrushingTeeth
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 18:30:09
+prompt: A crystal skeleton is brushing its teeth in a bathroom
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BrushingTeeth_g01_c04.mp4
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v_appearance/BrushingTeeth
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 18:32:28
+prompt: A crystal skeleton is brushing its teeth in a bathroom
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BrushingTeeth_g01_c04.mp4
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v_appearance/BrushingTeeth
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 18:34:47
+prompt: A crystal skeleton is brushing its teeth in a bathroom
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BrushingTeeth_g01_c04.mp4
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v_appearance/BrushingTeeth
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 18:37:06
+prompt: A crystal skeleton is brushing its teeth in a bathroom
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_BrushingTeeth_g01_c04.mp4
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v_appearance/BrushingTeeth
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 18:39:26
+prompt: Two focused women in kimonos duel on a strip inside a large sports hall
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v_appearance/Fencing
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 18:41:45
+prompt: Two focused women in kimonos duel on a strip inside a large sports hall
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v_appearance/Fencing
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 18:44:04
+prompt: Two focused women in kimonos duel on a strip inside a large sports hall
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v_appearance/Fencing
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 18:46:23
+prompt: Two focused women in kimonos duel on a strip inside a large sports hall
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v_appearance/Fencing
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 18:48:42
+prompt: Two focused women in kimonos duel on a strip inside a large sports hall
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v_appearance/Fencing
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 18:51:02
+prompt: Two focused women in kimonos duel on a strip inside a large sports hall
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_Fencing_g01_c05.mp4
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v_appearance/Fencing
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 18:53:21
+prompt: A wizard is practising his golf swing on the green front lawn of a brick house
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_GolfSwing_g02_c02_25fps.mp4
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v_appearance/GolfSwing
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 18:55:40
+prompt: A wizard is practising his golf swing on the green front lawn of a brick house
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_GolfSwing_g02_c02_25fps.mp4
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v_appearance/GolfSwing
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 18:58:00
+prompt: A wizard is practising his golf swing on the green front lawn of a brick house
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_GolfSwing_g02_c02_25fps.mp4
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v_appearance/GolfSwing
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 19:00:19
+prompt: A wizard is practising his golf swing on the green front lawn of a brick house
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_GolfSwing_g02_c02_25fps.mp4
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v_appearance/GolfSwing
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 19:02:38
+prompt: A wizard is practising his golf swing on the green front lawn of a brick house
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_GolfSwing_g02_c02_25fps.mp4
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v_appearance/GolfSwing
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 19:04:58
+prompt: A wizard is practising his golf swing on the green front lawn of a brick house
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_GolfSwing_g02_c02_25fps.mp4
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v_appearance/GolfSwing
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 19:07:17
+prompt: A man riding a zebra navigates an obstacle course in a sandy arena with trees and hills
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HorseRiding_g01_c06_25fps.mp4
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v_appearance/HorseRiding
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 19:09:36
+prompt: A man riding a zebra navigates an obstacle course in a sandy arena with trees and hills
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HorseRiding_g01_c06_25fps.mp4
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v_appearance/HorseRiding
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 19:11:55
+prompt: A man riding a zebra navigates an obstacle course in a sandy arena with trees and hills
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HorseRiding_g01_c06_25fps.mp4
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v_appearance/HorseRiding
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 19:14:15
+prompt: A man riding a zebra navigates an obstacle course in a sandy arena with trees and hills
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HorseRiding_g01_c06_25fps.mp4
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v_appearance/HorseRiding
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 19:16:34
+prompt: A man riding a zebra navigates an obstacle course in a sandy arena with trees and hills
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HorseRiding_g01_c06_25fps.mp4
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v_appearance/HorseRiding
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 19:18:53
+prompt: A man riding a zebra navigates an obstacle course in a sandy arena with trees and hills
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HorseRiding_g01_c06_25fps.mp4
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v_appearance/HorseRiding
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 19:21:13
+prompt: An emperor penguin with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_SkateBoarding_g01_c03.mp4
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v_appearance/SkateBoarding
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 19:23:32
+prompt: An emperor penguin with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_SkateBoarding_g01_c03.mp4
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v_appearance/SkateBoarding
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 19:25:51
+prompt: An emperor penguin with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_SkateBoarding_g01_c03.mp4
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v_appearance/SkateBoarding
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 19:28:10
+prompt: An emperor penguin with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_SkateBoarding_g01_c03.mp4
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v_appearance/SkateBoarding
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 19:30:30
+prompt: An emperor penguin with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_SkateBoarding_g01_c03.mp4
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v_appearance/SkateBoarding
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 19:32:49
+prompt: An emperor penguin with a red backpack is carving on a paved road next to a snowy mountain
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_SkateBoarding_g01_c03.mp4
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v_appearance/SkateBoarding
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 19:35:08
+prompt: A woman in a maid's costume ascends a challenging indoor climbing wall with a follow cinematic shot
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_RockClimbingIndoor_g13_c03.mp4
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v_appearance/RockClimbingIndoor
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 19:37:27
+prompt: A woman in a maid's costume ascends a challenging indoor climbing wall with a follow cinematic shot
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_RockClimbingIndoor_g13_c03.mp4
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v_appearance/RockClimbingIndoor
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 19:39:46
+prompt: A woman in a maid's costume ascends a challenging indoor climbing wall with a follow cinematic shot
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_RockClimbingIndoor_g13_c03.mp4
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v_appearance/RockClimbingIndoor
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 19:42:06
+prompt: A woman in a maid's costume ascends a challenging indoor climbing wall with a follow cinematic shot
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_RockClimbingIndoor_g13_c03.mp4
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v_appearance/RockClimbingIndoor
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 19:44:25
+prompt: A woman in a maid's costume ascends a challenging indoor climbing wall with a follow cinematic shot
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_RockClimbingIndoor_g13_c03.mp4
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v_appearance/RockClimbingIndoor
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 19:46:44
+prompt: A woman in a maid's costume ascends a challenging indoor climbing wall with a follow cinematic shot
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_RockClimbingIndoor_g13_c03.mp4
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v_appearance/RockClimbingIndoor
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 19:49:03
+prompt: A small robot carefully applies eyeliner with a thin brush in her bathroom
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_ApplyEyeMakeup_g12_c05.mp4
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v_appearance/ApplyEyeMakeup
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 19:51:22
+prompt: A small robot carefully applies eyeliner with a thin brush in her bathroom
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_ApplyEyeMakeup_g12_c05.mp4
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v_appearance/ApplyEyeMakeup
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 19:53:41
+prompt: A small robot carefully applies eyeliner with a thin brush in her bathroom
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_ApplyEyeMakeup_g12_c05.mp4
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v_appearance/ApplyEyeMakeup
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 19:56:01
+prompt: A small robot carefully applies eyeliner with a thin brush in her bathroom
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_ApplyEyeMakeup_g12_c05.mp4
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v_appearance/ApplyEyeMakeup
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 19:58:20
+prompt: A small robot carefully applies eyeliner with a thin brush in her bathroom
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_ApplyEyeMakeup_g12_c05.mp4
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v_appearance/ApplyEyeMakeup
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 20:00:39
+prompt: A small robot carefully applies eyeliner with a thin brush in her bathroom
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_ApplyEyeMakeup_g12_c05.mp4
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v_appearance/ApplyEyeMakeup
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 20:02:58
+prompt: A muscular alien performs an impressive snatch, lifting a heavy barbell overhead in a gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_CleanAndJerk_g25_c01.mp4
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v_appearance/CleanAndJerk
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 20:05:17
+prompt: A muscular alien performs an impressive snatch, lifting a heavy barbell overhead in a gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_CleanAndJerk_g25_c01.mp4
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v_appearance/CleanAndJerk
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 20:07:37
+prompt: A muscular alien performs an impressive snatch, lifting a heavy barbell overhead in a gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_CleanAndJerk_g25_c01.mp4
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v_appearance/CleanAndJerk
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 20:09:56
+prompt: A muscular alien performs an impressive snatch, lifting a heavy barbell overhead in a gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_CleanAndJerk_g25_c01.mp4
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v_appearance/CleanAndJerk
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 20:12:15
+prompt: A muscular alien performs an impressive snatch, lifting a heavy barbell overhead in a gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_CleanAndJerk_g25_c01.mp4
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v_appearance/CleanAndJerk
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 20:14:34
+prompt: A muscular alien performs an impressive snatch, lifting a heavy barbell overhead in a gym
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_CleanAndJerk_g25_c01.mp4
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v_appearance/CleanAndJerk
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 20:16:53
+prompt: A silver robot holds a steady handstand on a grassy hill under a vast blue sky
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HandstandWalking_g14_c03.mp4
+cfg_scale: 5
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v_appearance/HandstandWalking
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 20:19:12
+prompt: A silver robot holds a steady handstand on a grassy hill under a vast blue sky
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HandstandWalking_g14_c03.mp4
+cfg_scale: 5
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v_appearance/HandstandWalking
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 20:21:32
+prompt: A silver robot holds a steady handstand on a grassy hill under a vast blue sky
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HandstandWalking_g14_c03.mp4
+cfg_scale: 9
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v_appearance/HandstandWalking
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 20:23:51
+prompt: A silver robot holds a steady handstand on a grassy hill under a vast blue sky
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HandstandWalking_g14_c03.mp4
+cfg_scale: 9
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v_appearance/HandstandWalking
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 20:26:10
+prompt: A silver robot holds a steady handstand on a grassy hill under a vast blue sky
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HandstandWalking_g14_c03.mp4
+cfg_scale: 12
+prior_coefficient_x: 0.3
+save_path: outputs/tv2v_appearance/HandstandWalking
+==== Experiment End ====
+
+==== Experiment Start ====
+datetime: 2025-08-14 20:28:29
+prompt: A silver robot holds a steady handstand on a grassy hill under a vast blue sky
+video_path: /scratch/rs02358/ved_dissertation/Datasets_from_Internet/UCF101/UCF-Benchmark/v_HandstandWalking_g14_c03.mp4
+cfg_scale: 12
+prior_coefficient_x: 0.1
+save_path: outputs/tv2v_appearance/HandstandWalking
+==== Experiment End ====
+
