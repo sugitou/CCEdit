@@ -15,7 +15,7 @@ python scripts/sampling/sampling_tv2v.py \
     --add_prompt 'anime style' \
     --save_path outputs/tv2v/ApplyEyeMakeup \
     --disable_check_repeat \
-    --prior_coefficient_x 0.3 \
+    --prior_coefficient_x 0.5 \
     --basemodel_path models/base/toonyou_alpha3.safetensors \
     #--lora_path models/lora/PixelArtRedmond15V-PixelArt-PIXARFK.safetensors \
     #--lora_strength 0.8 \
