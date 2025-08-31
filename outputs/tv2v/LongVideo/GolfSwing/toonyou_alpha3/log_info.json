@@ -3,9 +3,11 @@
     "lora_path": "",
     "vae_path": "",
     "video_paths": [
+        "/parallel_scratch/rs02358/Reference_Videos/v_GolfSwing_g02_c02.mp4",
         "/parallel_scratch/rs02358/Reference_Videos/v_GolfSwing_g02_c02.mp4"
     ],
     "keyframes_paths": [
-        "outputs/tv2v/LongVideo/GolfSwing/toonyou_alpha3/result/mp4/animation-0000.mp4"
+        "outputs/tv2v/LongVideo/GolfSwing/toonyou_alpha3/result/mp4/animation-0000.mp4",
+        "outputs/tv2v/LongVideo/GolfSwing/toonyou_alpha3/result/mp4/animation-0002.mp4"
     ]
 }

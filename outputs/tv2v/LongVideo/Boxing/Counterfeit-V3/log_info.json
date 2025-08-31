@@ -3,9 +3,15 @@
     "lora_path": "models/lora/PixelArtRedmond15V-PixelArt-PIXARFK.safetensors",
     "vae_path": "",
     "video_paths": [
+        "/parallel_scratch/rs02358/Reference_Videos/v_BoxingPunchingBag_g01_c03.mp4",
+        "/parallel_scratch/rs02358/Reference_Videos/v_BoxingPunchingBag_g01_c03.mp4",
+        "/parallel_scratch/rs02358/Reference_Videos/v_BoxingPunchingBag_g01_c03.mp4",
         "/parallel_scratch/rs02358/Reference_Videos/v_BoxingPunchingBag_g01_c03.mp4"
     ],
     "keyframes_paths": [
-        "outputs/tv2v/LongVideo/Boxing/Counterfeit-V3/result/mp4/animation-0000.mp4"
+        "outputs/tv2v/LongVideo/Boxing/Counterfeit-V3/result/mp4/animation-0000.mp4",
+        "outputs/tv2v/LongVideo/Boxing/Counterfeit-V3/result/mp4/animation-0001.mp4",
+        "outputs/tv2v/LongVideo/Boxing/Counterfeit-V3/result/mp4/animation-0003.mp4",
+        "outputs/tv2v/LongVideo/Boxing/Counterfeit-V3/result/mp4/animation-0004.mp4"
     ]
 }
