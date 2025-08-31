@@ -12,3 +12,12 @@ debug_keyframes/
 
 cceditvenv/
 models/
+
+avi2mp4.py
+pip_HPC.txt
+pip_Otter19.txt
+tv2v_inference_ref.sh
+tv2v_inference_splitWindow.sh
+scripts/sampling/sampling_tv2v_splitFrame.py
+tv2v_inference_loop_subject.sh
+outputs/hardware-log
