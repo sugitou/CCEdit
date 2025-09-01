@@ -1,3 +1,33 @@
+# ⚠️ Notice
+
+This repository is a **fork** of the original [CCEdit](https://github.com/RuoyuFeng/CCEdit?tab=readme-ov-file) project.  
+It includes additional implementations and modifications by **Raito Sugihara** for research purposes (MSc Dissertation, University of Surrey, 2025).  
+
+### Additional Changes
+- Added bash scripts for **inference**
+- Enabled style transfer by integrating **pre-trained base models** through the bash scripts
+
+### Usage Notes
+Using only the instructions from the original README may lead to inference failures.  
+To resolve this, it is necessary to provide a **pre-trained base model** via the `--basemodel_path` argument.  
+The models recommended in the original paper were employed, and the following pre-trained models were used in this fork:
+
+- **revAnimated v2**  
+- **ToonYou alpha3**  
+- **hellomecha V12**  
+- **Counterfeit V3 / PixelArtRedmond 15V**
+
+All models were obtained from **Hugging Face** and **Civitai**.  
+⚠️ Due to their large file sizes, these pre-trained base models are **not included in this repository** and must be downloaded separately.
+
+→ For further installation and usage instructions, please refer to the **Original README** provided below.  
+This fork mainly highlights the additional implementations listed above.
+
+---
+
+# Original README
+
+
 ### <div align="center"> CCEdit: Creative and Controllable Video Editing via Diffusion Models<div> 
 ### <div align="center"> CVPR 2024 <div> 
 
