@@ -1,7 +1,8 @@
 # ⚠️ Notice
 
 This repository is a **fork** of the original [CCEdit](https://github.com/RuoyuFeng/CCEdit?tab=readme-ov-file) project.  
-It includes additional implementations and modifications by **Raito Sugihara** for research purposes (MSc Dissertation, University of Surrey, 2025).  
+It includes additional implementations and modifications for research purposes, developed as part of the MSc Dissertation:  
+**"Video Editing using Diffusion Models: Techniques and Challenges" (University of Surrey, 2025).**
 
 ### Additional Changes
 - Added bash scripts for **inference**
